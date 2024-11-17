@@ -1,4 +1,5 @@
 {:db {:snips {:abcdef "something went wrong"
+              :abdefg "do local _={chars={[\"%\"]={y=80,xadvance=25,x=61,height=35,id=37,width=29,char=\"%\",xoffset=-2,yoffset=4},[\"&\"]={y=38,xadvance=25,x=66,height=35,id=38,width=28,char=\"&\",xoffset=-1,yoffset=4},[\"#\"]={y=152,xadvance=25,x=94,height=34,id=35,width=27,char=\"#\",xoffset=-1,yoffset=4},[\"$\"]={y=222,xadvance=25,x=0,height=38,id=36,width=22,char=\"$\",xoffset=2,yoffset=2},[\"!\"]={y=80,xadvance=25,x=51,height=35,id=33,width=9,char=\"!\",xoffset=8,yoffset=4},[\"\\\"\"]={y=122,xadvance=25,x=27,height=15,id=34,width=18,char=\"\\\"\",xoffset=4,yoffset=4},[\" \"]={y=84,xadvance=25,x=26,height=0,id=32,width=0,char=\" \",xoffset=-2,yoffset=34},[\"-\"]={y=159,xadvance=25,x=50,height=7,id=45,width=18,char=\"-\",xoffset=4,yoffset=21},[\".\"]={y=234,xadvance=25,x=146,height=11,id=46,width=10,char=\".\",xoffset=7,yoffset=28},[\"+\"]={y=194,xadvance=25,x=140,height=23,id=43,width=23,char=\"+\",xoffset=1,yoffset=10},[\",\"]={y=218,xadvance=25,x=146,height=15,id=44,width=11,char=\",\",xoffset=7,yoffset=29},[\")\"]={y=0,xadvance=25,x=20,height=41,id=41,width=17,char=\")\",xoffset=4,yoffset=4},[\"*\"]={y=170,xadvance=25,x=125,height=23,id=42,width=24,char=\"*\",xoffset=1,yoffset=2},[\"'\"]={y=170,xadvance=25,x=150,height=15,id=39,width=9,char=\"'\",xoffset=8,yoffset=4},[\"(\"]={y=47,xadvance=25,x=8,height=41,id=40,width=17,char=\"(\",xoffset=4,yoffset=4},[\"5\"]={y=107,xadvance=25,x=119,height=34,id=53,width=22,char=\"5\",xoffset=2,yoffset=4},[\"6\"]={y=116,xadvance=25,x=73,height=35,id=54,width=23,char=\"6\",xoffset=1,yoffset=4},[\"3\"]={y=159,xadvance=25,x=70,height=35,id=51,width=23,char=\"3\",xoffset=1,yoffset=4},[\"4\"]={y=0,xadvance=25,x=128,height=34,id=52,width=26,char=\"4\",xoffset=-1,yoffset=4},[\"1\"]={y=72,xadvance=25,x=115,height=34,id=49,width=15,char=\"1\",xoffset=3,yoffset=4},[\"2\"]={y=36,xadvance=25,x=119,height=34,id=50,width=23,char=\"2\",xoffset=1,yoffset=4},[\"/\"]={y=110,xadvance=25,x=97,height=34,id=47,width=21,char=\"/\",xoffset=2,yoffset=4},[\"0\"]={y=0,xadvance=25,x=81,height=35,id=48,width=23,char=\"0\",xoffset=1,yoffset=4},[\"}\"]={y=180,xadvance=25,x=0,height=41,id=125,width=20,char=\"}\",xoffset=3,yoffset=4},[\"~\"]={y=500,xadvance=25,x=75,height=10,id=126,width=23,char=\"~\",xoffset=1,yoffset=16},[\"{\"]={y=138,xadvance=25,x=0,height=41,id=123,width=20,char=\"{\",xoffset=3,yoffset=4},[\"|\"]={y=47,xadvance=25,x=0,height=46,id=124,width=7,char=\"|\",xoffset=9,yoffset=2},y={y=0,xadvance=25,x=54,height=37,id=121,width=26,char=\"y\",xoffset=0,yoffset=11},z={y=223,xadvance=25,x=123,height=27,id=122,width=22,char=\"z\",xoffset=2,yoffset=11},w={y=142,xadvance=25,x=122,height=27,id=119,width=29,char=\"w\",xoffset=-2,yoffset=11},x={y=251,xadvance=25,x=122,height=27,id=120,width=25,char=\"x\",xoffset=0,yoffset=11},[\"]\"]={y=0,xadvance=25,x=38,height=41,id=93,width=15,char=\"]\",xoffset=4,yoffset=4},[\"^\"]={y=489,xadvance=25,x=109,height=23,id=94,width=25,char=\"^\",xoffset=0,yoffset=4},[\"[\"]={y=42,xadvance=25,x=26,height=41,id=91,width=15,char=\"[\",xoffset=6,yoffset=4},[\"\\\\\"]={y=465,xadvance=25,x=75,height=34,id=92,width=21,char=\"\\\\\",xoffset=2,yoffset=4},Y={y=430,xadvance=25,x=72,height=34,id=89,width=28,char=\"Y\",xoffset=-1,yoffset=4},Z={y=392,xadvance=25,x=95,height=34,id=90,width=25,char=\"Z\",xoffset=0,yoffset=4},W={y=395,xadvance=25,x=65,height=34,id=87,width=29,char=\"W\",xoffset=-2,yoffset=4},X={y=357,xadvance=25,x=73,height=34,id=88,width=27,char=\"X\",xoffset=-1,yoffset=4},e={y=259,xadvance=25,x=75,height=27,id=101,width=24,char=\"e\",xoffset=1,yoffset=11},f={y=298,xadvance=25,x=0,height=36,id=102,width=24,char=\"f\",xoffset=1,yoffset=2},c={y=231,xadvance=25,x=75,height=27,id=99,width=22,char=\"c\",xoffset=2,yoffset=11},d={y=215,xadvance=25,x=23,height=36,id=100,width=23,char=\"d\",xoffset=1,yoffset=2},a={y=461,xadvance=25,x=109,height=27,id=97,width=22,char=\"a\",xoffset=1,yoffset=11},b={y=261,xadvance=25,x=0,height=36,id=98,width=23,char=\"b\",xoffset=1,yoffset=2},_={y=187,xadvance=25,x=94,height=7,id=95,width=30,char=\"_\",xoffset=-2,yoffset=38},[\"`\"]={y=343,xadvance=25,x=81,height=11,id=96,width=12,char=\"`\",xoffset=7,yoffset=2},m={y=287,xadvance=25,x=76,height=27,id=109,width=25,char=\"m\",xoffset=0,yoffset=11},n={y=195,xadvance=25,x=95,height=27,id=110,width=23,char=\"n\",xoffset=1,yoffset=11},k={y=214,xadvance=25,x=47,height=36,id=107,width=23,char=\"k\",xoffset=2,yoffset=2},l={y=122,xadvance=25,x=50,height=36,id=108,width=22,char=\"l\",xoffset=2,yoffset=2},i={y=177,xadvance=25,x=47,height=36,id=105,width=22,char=\"i\",xoffset=2,yoffset=2},j={y=0,xadvance=25,x=0,height=46,id=106,width=19,char=\"j\",xoffset=1,yoffset=2},g={y=177,xadvance=25,x=21,height=37,id=103,width=25,char=\"g\",xoffset=0,yoffset=11},h={y=252,xadvance=25,x=24,height=36,id=104,width=23,char=\"h\",xoffset=1,yoffset=2},u={y=315,xadvance=25,x=81,height=27,id=117,width=23,char=\"u\",xoffset=1,yoffset=11},v={y=279,xadvance=25,x=102,height=27,id=118,width=26,char=\"v\",xoffset=0,yoffset=11},s={y=251,xadvance=25,x=100,height=27,id=115,width=21,char=\"s\",xoffset=2,yoffset=11},t={y=427,xadvance=25,x=101,height=33,id=116,width=22,char=\"t\",xoffset=1,yoffset=5},q={y=42,xadvance=25,x=42,height=37,id=113,width=23,char=\"q\",xoffset=1,yoffset=11},r={y=195,xadvance=25,x=119,height=27,id=114,width=20,char=\"r\",xoffset=3,yoffset=11},o={y=223,xadvance=25,x=98,height=27,id=111,width=24,char=\"o\",xoffset=0,yoffset=11},p={y=84,xadvance=25,x=27,height=37,id=112,width=23,char=\"p\",xoffset=1,yoffset=11},[\"=\"]={y=369,xadvance=25,x=101,height=15,id=61,width=23,char=\"=\",xoffset=1,yoffset=13},[\">\"]={y=307,xadvance=25,x=105,height=25,id=62,width=23,char=\">\",xoffset=1,yoffset=9},[\";\"]={y=465,xadvance=25,x=97,height=33,id=59,width=11,char=\";\",xoffset=6,yoffset=11},[\"<\"]={y=343,xadvance=25,x=101,height=25,id=60,width=23,char=\"<\",xoffset=1,yoffset=9},[\"9\"]={y=36,xadvance=25,x=95,height=35,id=57,width=23,char=\"9\",xoffset=1,yoffset=4},[\":\"]={y=106,xadvance=25,x=142,height=28,id=58,width=9,char=\":\",xoffset=8,yoffset=11},[\"7\"]={y=71,xadvance=25,x=131,height=34,id=55,width=23,char=\"7\",xoffset=1,yoffset=4},[\"8\"]={y=74,xadvance=25,x=91,height=35,id=56,width=23,char=\"8\",xoffset=1,yoffset=4},E={y=406,xadvance=25,x=0,height=34,id=69,width=21,char=\"E\",xoffset=2,yoffset=4},F={y=441,xadvance=25,x=0,height=34,id=70,width=21,char=\"F\",xoffset=3,yoffset=4},C={y=335,xadvance=25,x=0,height=35,id=67,width=26,char=\"C\",xoffset=1,yoffset=4},D={y=371,xadvance=25,x=0,height=34,id=68,width=25,char=\"D\",xoffset=1,yoffset=4},A={y=35,xadvance=25,x=143,height=34,id=65,width=28,char=\"A\",xoffset=-1,yoffset=4},B={y=0,xadvance=25,x=155,height=34,id=66,width=25,char=\"B\",xoffset=1,yoffset=4},[\"?\"]={y=0,xadvance=25,x=105,height=35,id=63,width=22,char=\"?\",xoffset=1,yoffset=4},[\"@\"]={y=138,xadvance=25,x=21,height=38,id=64,width=28,char=\"@\",xoffset=-1,yoffset=4},M={y=476,xadvance=25,x=25,height=34,id=77,width=25,char=\"M\",xoffset=0,yoffset=4},N={y=441,xadvance=25,x=47,height=34,id=78,width=24,char=\"N\",xoffset=1,yoffset=4},K={y=441,xadvance=25,x=22,height=34,id=75,width=24,char=\"K\",xoffset=2,yoffset=4},L={y=406,xadvance=25,x=43,height=34,id=76,width=21,char=\"L\",xoffset=3,yoffset=4},I={y=406,xadvance=25,x=22,height=34,id=73,width=20,char=\"I\",xoffset=3,yoffset=4},J={y=371,xadvance=25,x=26,height=34,id=74,width=21,char=\"J\",xoffset=1,yoffset=4},G={y=289,xadvance=25,x=25,height=35,id=71,width=24,char=\"G\",xoffset=0,yoffset=4},H={y=476,xadvance=25,x=0,height=34,id=72,width=24,char=\"H\",xoffset=1,yoffset=4},U={y=360,xadvance=25,x=48,height=34,id=85,width=24,char=\"U\",xoffset=1,yoffset=4},V={y=322,xadvance=25,x=52,height=34,id=86,width=28,char=\"V\",xoffset=-1,yoffset=4},S={y=195,xadvance=25,x=71,height=35,id=83,width=23,char=\"S\",xoffset=1,yoffset=4},T={y=287,xadvance=25,x=50,height=34,id=84,width=25,char=\"T\",xoffset=0,yoffset=4},Q={y=94,xadvance=25,x=0,height=43,id=81,width=26,char=\"Q\",xoffset=0,yoffset=4},R={y=325,xadvance=25,x=27,height=34,id=82,width=24,char=\"R\",xoffset=2,yoffset=4},O={y=251,xadvance=25,x=48,height=35,id=79,width=26,char=\"O\",xoffset=0,yoffset=4},P={y=476,xadvance=25,x=51,height=34,id=80,width=23,char=\"P\",xoffset=2,yoffset=4}},texSize=512,base=34,lineHeight=45};return _;end"
               :abkcfu "local r = ({...})[1].root
 
 r.vpState = {x=0,y=0,sizeFactor=10}
@@ -71,6 +72,14 @@ void main() {
 end
 "
               :akafoc "local a = 10"
+              :akknao "
+local state = ...
+local m = state.plugins.Meta
+
+m.db.tags.msdfGlyphInfo = m.db.tags.msdfGlyphInfo or {}
+local serp = m.loadTag(\"serpent\")()
+m.db.snips.abdefg = serp.dump(({...})[1].root.glyphInfo)
+m.db.tags.msdfGlyphInfo[1] = \"abdefg\""
               :akteek "
 function t.makeProgram(gl,vShader,fShader)
   local program = gl.createProgram()
@@ -94,6 +103,59 @@ function t.makeProgram(gl,vShader,fShader)
   end
   return program
 end"
+              :asocwf "local r = ({...})[1].root
+
+if r.tempDrawText then
+
+do local p,c = r.drawCharList.positions, r.drawCharList.chars
+   for i=1,#p do p[i]=nil end
+   for i=1,#c do c[i]=nil end
+end
+
+local list = r.drawCharList
+local ra = r.xOverY
+
+-- Drag block of text
+local lineHeight = 0.045
+
+local function tl(rect, x, y)
+   rect.l = rect.l+x rect.r = rect.r+x
+   rect.t = rect.t+y rect.b = rect.b+y
+end
+
+local advancer = -.9
+local top = 0.47
+local px = lineHeight / r.glyphInfo.lineHeight
+local adv = px*25
+
+   local info = r.glyphInfo.chars[letter]
+   local charRect = r.texCharCoordsMap[letter]
+   local w,h = info.width, info.height
+   local rt = w/h
+   local bar = advancer
+   local rect = {l=bar, r= bar+w*px,
+                 t= top, b=  top-h*px}
+   tl(rect,info.xoffset*px/ra,-info.yoffset*px)
+   r.rectIntoVerts3(rect, list.positions, r.xOverY)
+   r.rectIntoVerts2(charRect, list.chars)
+
+--   r.rectIntoVerts3(rect, list.positions)
+--   r.rectIntoVerts2({l=0,r=0.25,t=0,b=0.5}, list.chars)
+   advancer = advancer+adv
+end
+"
+              :asxccy "--dbEdit
+local state = ...
+local m = state.plugins.Meta
+local dbEdit = m.loadTag(\"dbEdit\")
+dbEdit(state)
+table.insert(
+   state[\"out-queue\"],
+   \"open-inspector-at-path\"
+)
+
+
+"
               :aubken "return"
               :bbejct "local r = ({...})[1].root
 
@@ -135,7 +197,13 @@ r.clickStateMachine = {
 }
 function r.pushEvent(e)
    table.insert(r.eventQueue,e)
-end"
+end
+
+r.touchTypes = {
+   move=\"touch move\",
+   up=\"touch up\",
+   down=\"touch down\",
+}"
               :bcljax "DOM.dlstr(
    DOM.window.localStorage[\"prsv-img\"],
    \"oct3-MoonBounce.txt\"
@@ -204,6 +272,12 @@ for letter in string.gmatch(str,\".\") do repeat
    advancer = advancer+adv
 until true end
 "
+              :bhwgur "local b = self.base
+
+b.nominal = b.nomMap[b.value]
+if b.faceMap[b.value]
+then b.faceNominal = b.faceMap[b.value] end
+b.id = b.idMap[b.value]"
               :biblpp "function t.floatBufData(arr)
   local bufloc = DOM.wasmoon.cmodule.module._malloc(#arr * 4)
   if bufloc == 0 then return nil end
@@ -212,14 +286,196 @@ until true end
   buf.set(arr)
   return buf,bufloc
 end"
+              :blollv "local state = ...
+local db = state.root.__plugins[\"db\"]
+db.columns = nil
+function db.frame(s,plug)
+   if db.logpulse then
+      DOM.log(db.wnd.document.body)
+      db.logpulse = false
+   end
+
+   local p = s.panels[db.name]
+   if p and not db.iframe.isConnected then
+      function db.iframe.onload() db.iframeloaded = true end
+      p.appendChild(db.iframe)
+   end
+   db.iframe.style.width = \"100%\"
+   db.iframe.style.height = \"100%\"
+   db.iframe.style.border = \"0px\"
+
+   if db.m.db and db.iframeloaded then
+      local tags = db.m.db.tags
+      if not db.tagPanels then db.tagPanels = {} end
+      local defaultColumns if not db.columns then
+         function db.ent(txt) return 
+            s.E(\"pre\", {\"m-1\"}, txt)
+         end
+         local function col(t)
+            local c = t.clr and \"bg-dark\" or \"bg-dark\"
+            local wt = \"text-white\"
+            
+            local inp if t.inputName then
+               inp = s.E(\"input\",{
+                  \"form-control\", \"m-\", \"p-1\", wt
+               })
+               function inp.onfocus() -- does nothing?
+                  inp.style.borderColor = \"#f00\"
+               end
+               inp.style.fontFamily = \"monospace\"
+               inp.style.backgroundColor = \"#333\"
+               inp.style.border = \"none\"
+               db.tagPanels[t.inputName]=inp
+            end
+
+            local lst = s.E(\"ul\",{
+               \"list-group\", \"mt-1\", \"overflow-auto\"
+            })
+            db.tagPanels[t.name]=lst
+
+            return s.E(\"div\",{\"col\", \"p-2\",c,wt,t.sz},
+               inp or \"\",
+               lst
+            )
+         end
+         local rows = s.E(\"div\", {\"row\", \"bg-primary\"},
+            col{text=\"hi\",clr=true, inputName = \"fstSrch\",
+               name=\"fstTagList\"
+            },
+            col{text=\"there\",clr = false,name=\"btnPanel\"},
+            col{text=\"friend\",clr=true, inputName = \"sndSrch\",
+               name=\"sndTagList\"
+            }
+         )
+         rows.id = \"dbRows\"
+         rows.style.height = \"100%\"
+         defaultColumns = s.E(\"div\", {\"container-fluid\"}, rows)
+         defaultColumns.style.height = \"100%\"
+         defaultColumns.style.position = \"absolute\"
+      end
+
+      if db.processEvents then db.processEvents() end
+
+      db.columns = db.columns or defaultColumns
+      if not db.columns.isConnected then
+         local wnd = db.iframe.contentWindow
+         wnd.document.body.innerHTML = \"\"
+         wnd.document.body.appendChild(db.columns)
+      end
+      if db.tagPanels then
+         local btnPanel = db.tagPanels.btnPanel
+            local moveRight = s.E(\"button\", {
+               \"btn\", \"btn-dark\", \"btn-outline-secondary\"
+            }, \"▶\")
+            function moveRight.onclick()
+               local fstSrch = db.tagPanels.fstSrch.value
+               local sndSrch = db.tagPanels.sndSrch.value
+               local tag = db.m.db.tags[fstSrch]
+               local toTag = db.m.db.tags[sndSrch]
+               if db.fstSel and tag and toTag then
+                  local snipIdx for i,snip in ipairs(tag) do
+                     if snip == db.fstSel then snipIdx = i end
+                  end
+                  local sndSnipIdx
+                  for i,snip in ipairs(toTag) do
+                     if snip == db.sndSel then 
+                        sndSnipIdx = i
+                     end
+                  end
+                  if tag and toTag and sndSnipIdx then
+                     --DOM.log(fstSrch,snipIdx)
+                     local sel = table.remove(tag,snipIdx)
+                     table.insert(toTag,sndSnipIdx,sel)
+                  elseif tag and toTag then
+                     local sel = table.remove(tag,snipIdx)
+                     table.insert(toTag,sel)
+                  end
+               end
+            end
+         if not db.btnPanelLoaded then
+            db.group = s.E(\"div\", {\"btn-group\"},
+               moveRight
+            )
+            btnPanel.appendChild(db.group)
+         end
+         db.btnPanelLoaded = db.group and db.group.isConnected
+
+
+         local fst = db.tagPanels.fstTagList
+         local snd = db.tagPanels.sndTagList
+         local fstSrch = db.tagPanels.fstSrch.value
+         local sndSrch = db.tagPanels.sndSrch.value
+         local tags = db.m.db.tags
+         db.fstHasChanged =
+            tags[fstSrch] and db.fstSrchLast ~= #tags[fstSrch]
+         db.sndHasChanged =
+            tags[sndSrch] and db.sndSrchLast ~= #tags[sndSrch]
+         db.fstSrchLast = tags[fstSrch] and #tags[fstSrch]
+         db.sndSrchLast = tags[sndSrch] and #tags[sndSrch]
+
+         if db.fstActive and not tags[fstSrch] then
+            fst.innerHTML = \"\"
+            db.fstSel = nil
+            db.fstActive = nil
+         end
+         if db.fstHasChanged then
+            db.fstActive = true
+            fst.innerHTML = \"\"
+            db.fstEntries = {}
+            db.fstSel = nil
+            for i,v in ipairs(tags[fstSrch]) do
+               local entry = s.E(\"li\", {
+                  \"list-group-item\", \"list-group-item-action\"
+               }, v)
+               db.fstEntries[v]=entry
+               function entry.onpointerup()
+                  if db.fstSel then
+                     local lastSel = db.fstEntries[db.fstSel]
+                     lastSel.classList.remove(\"active\")
+                  end
+                  db.fstSel = v
+                  entry.classList.add(\"active\")
+               end
+               fst.appendChild(entry)
+            end
+         end
+         if db.sndActive and not tags[sndSrch] then
+            snd.innerHTML = \"\"
+            db.sndSel = nil
+            db.sndActive = nil
+         end
+         if db.sndHasChanged then
+            db.sndActive = true
+            snd.innerHTML = \"\"
+            db.sndEntries = {}
+            db.sndSel = nil
+            for i,v in ipairs(tags[sndSrch]) do
+               local entry = s.E(\"li\", {
+                  \"list-group-item\", \"list-group-item-action\"
+               }, v)
+               db.sndEntries[v]=entry
+               function entry.onpointerup()
+                  if db.sndSel then
+                     local lastSel = db.sndEntries[db.sndSel]
+                     lastSel.classList.remove(\"active\")
+                  end
+                  db.sndSel = v
+                  entry.classList.add(\"active\")
+               end
+               snd.appendChild(entry)
+            end
+         end
+      end
+   end
+end"
               :blucld "-- Rect Slicing
 local state = ...
 local r = ({...})[1].root
 
 r.cut = {} do local ct = r.cut
-   function ct.copy(r)
-      local new = {r=r.r,l=r.l,t=r.t,b=r.b}
-      new.clr = {r.clr[1],r.clr[2],r.clr[3],r.clr[4]}
+   function ct.copy(rt)
+      local new = {r=rt.r,l=rt.l,t=rt.t,b=rt.b}
+      new.clr = {rt.clr[1],rt.clr[2],rt.clr[3],rt.clr[4]}
       return new
    end
    function ct.dim(r)
@@ -239,6 +495,15 @@ r.cut = {} do local ct = r.cut
       c1.t = c1.b+split c2.b = c2.b+split
       return c1,c2
    end
+   
+   function ct.shrink(r,prt)
+      local c1 = ct.copy(r)
+      c1.t = c1.t-prt
+      c1.b = c1.b+prt
+      c1.r = c1.r-prt
+      c1.l = c1.l+prt
+      return c1
+   end
 end
 "
               :bluqux "local state = ...
@@ -249,35 +514,19 @@ work.isLoaded = false"
               :bpzijc "local r = ({...})[1].root
 local box = {clr={0.4,0.4,0.4,1}}
 function r.pushCenteredQuad(x,y,wLen,hLen)
+   r.rectCnt = (r.rectCnt or 0)+1
    local rt = r
-   local v,c = r.drawList.verts, r.drawList.colors
    local w,h = wLen/2, hLen/2
    local t,b,l,r = y+h,y-h,x-w,x+w
    box.r = r box.l = l box.t = t box.b = b
    rt.vpPushQuad(box)
 end
+"
+              :bqybmp "local state = ...
 
-function r.vpPushQuad(rect) -- TODO: implement clipping
-   local sz = r.vpState.sizeFactor
-   local v,c = r.rectBuf.positions, r.rectBuf.colors
-   local sc = r.xOverY -- scaling
-   local t,b,l,r = rect.t/sz,rect.b/sz,rect.l/sz,rect.r/sz 
-   if 1 > sc then t,b = t*sc,b*sc else l,r = l/sc,r/sc end
-   local sP = string.pack
-   local tB,bB,lB,rB=sP(\"f\",t), sP(\"f\",b), sP(\"f\",l), sP(\"f\",r)
-   local zB = sP(\"f\",0) local l = #v
-   v[l+1]=lB v[l+2]=tB v[l+3]=zB
-   v[l+4]=lB v[l+5]=bB v[l+6]=zB
-   v[l+7]=rB v[l+8]=tB v[l+9]=zB
-   v[l+10]=rB v[l+11]=tB v[l+12]=zB
-   v[l+13]=lB v[l+14]=bB v[l+15]=zB
-   v[l+16]=rB v[l+17]=bB v[l+18]=zB
-   local clr = rect.clr l=#c
-   for i=1,6 do local ii = (i-1)*4
-      c[l+1+ii]=sP(\"f\",clr[1]) c[l+2+ii]=sP(\"f\",clr[2])
-      c[l+3+ii]=sP(\"f\",clr[3]) c[l+4+ii]=sP(\"f\",clr[4])
-   end
-end"
+local r = ({...})[1].root
+
+r.__plugins.Gui.cnv.requestFullscreen()"
               :bspzjz "local state = ...
 local gui = state.root.__plugins.Gui
 
@@ -338,6 +587,7 @@ DOM.log(gl.getParameter(gl.MAX_UNIFORM_BLOCK_SIZE))"
 DOM.log(r.__plugins.Gui.gl.getContextAttributes())"
               :ctioox "local s=...
 s.root.__plugins.juvenile = nil"
+              :cuzwej "DOM.log((12 % 10)^2)"
               :cwxsoc "local bytes = DOM.wasmoon.cmodule.module
 DOM.log(bytes)"
               :cxczbs "-- Empty workspace
@@ -351,6 +601,11 @@ table.insert(
    state[\"out-queue\"],
    \"open-inspector-at-path\"
 )"
+              :cymebw "local state = ...
+
+local r = ({...})[1].root
+
+--r.__plugins.Gui.cnv.requestFullscreen()"
               :dcbydw "local state = ...
 for k,v in pairs(state.prsv.db.snips) do
   DOM.log(k,string.len(v))
@@ -394,6 +649,12 @@ r.texCharCoordsMap = {}
 for k,_ in pairs(r.glyphInfo.chars) do
    r.texCharCoordsMap[k] = r.getCharTexCoords(k)
 end
+"
+              :dohblt "
+local state = ...
+local r = ({...})[1].root
+
+r.vpState.sizeFactor = 18
 "
               :dpowjz "local state = ...
 DOM.log(#state.root.rectBuf.verts)
@@ -464,53 +725,99 @@ end
               :elyfgh "local r = ({...})[1].root
 r.out = {}
 r.stepper = coroutine.wrap(r.processQueue)"
-              :esvnqh "local state = ...
-local r = state.root
-
-local ln = #r.rects
-local topleft = r.rects[1]
-local bottomright = r.rects[ln]
-local bounds = r.cut.copy(topleft)
-bounds.t = topleft.t
-bounds.l = topleft.l
-bounds.b = bottomright.b
-bounds.r = bottomright.r
-
-local function tl(rect, x,y) local rc = r.cut.copy(rect)
-   rc.l = rc.l+x rc.r = rc.r+x rc.t = rc.t+y rc.b = rc.b+y
-   return rc
-end
-local ln = #r.rects
-for i=1,ln do
-   local box = r.rects[i]
-   local bw = bounds.r-bounds.l
-   local bh = bounds.b-bounds.t
-   local w = box.r-box.l
-   local h = box.b-box.t
-   r.rects[ln+i] = tl(box,bw+w,0)
-   r.rects[ln*2+i] = tl(box,0,bh+h)
-   r.rects[ln*3+i]=tl(box,bw+w,bh+h)
-end
-
-DOM.log(#r.rects)
-DOM.log(#state.root.rectBuf.positions)
-DOM.log(#state.root.rectBuf.colors)
-
-
-
-
-
-
-"
+              :eprihp "
+function r.vpPushQuad(rect) -- TODO: implement clipping
+   local sz = r.vpState.sizeFactor
+   local v,c = r.rectBuf.positions, r.rectBuf.colors
+   local sc = r.xOverY -- scaling
+   local t,b,l,r = rect.t/sz,rect.b/sz,rect.l/sz,rect.r/sz 
+   if 1 > sc then t,b = t*sc,b*sc else l,r = l/sc,r/sc end
+   local sP = string.pack
+   local tB,bB,lB,rB=sP(\"f\",t), sP(\"f\",b), sP(\"f\",l), sP(\"f\",r)
+   local zB = sP(\"f\",0) local l = #v
+   v[l+1]=lB v[l+2]=tB v[l+3]=zB
+   v[l+4]=lB v[l+5]=bB v[l+6]=zB
+   v[l+7]=rB v[l+8]=tB v[l+9]=zB
+   v[l+10]=rB v[l+11]=tB v[l+12]=zB
+   v[l+13]=lB v[l+14]=bB v[l+15]=zB
+   v[l+16]=rB v[l+17]=bB v[l+18]=zB
+   local clr = rect.clr l=#c
+   for i=1,6 do local ii = (i-1)*4
+      c[l+1+ii]=sP(\"f\",clr[1]) c[l+2+ii]=sP(\"f\",clr[2])
+      c[l+3+ii]=sP(\"f\",clr[3]) c[l+4+ii]=sP(\"f\",clr[4])
+   end
+end"
+              :esvnqh " "
               :eytzse "local s = ...
 s.root.inQueueGLprogs = {}"
               :faitzk "local state = ...
 DOM.log(state.E(\"canvas\", {}))"
+              :faoypa "local a = [[
+local r / . 1 :root / ...
+
+set r.docTree # list
+
+do / local doc r.docTree
+   
+   fn doc.draw () <> icollect <> v tbl :into tbl | + v 1
+   fn doc.update () <> doc.emptyOut doc.rects
+      
+   fn doc.make (t) {: t}
+   fn doc.ap (nd ch) <> with-return nd <> set nd.nxt ch
+   fn doc.ins (nd) <> with-return nd
+      local tmp nd.nxt | set <> nd.nxt ch.nxt | ch tmp
+   fn doc.tail (nd)
+      or <> and (not nd.nxt) nd | doc.tail nd.nxt
+      ifn nd <> and nd.nxt <> doc.tail nd.nxt
+   set <> doc.ids doc.queue doc.root doc.rects | () () () ()
+   fn doc.draw ()
+      fn rec (nd)
+         until <> not nd
+            if <> not= (type nd.t) :string | rec nd.t
+               r.vpPushQuad <> . doc.rects nd.t
+            set nd nd.nxt
+      ieach <> v doc.root | rec v
+
+
+
+
+r.docTree = {} do local doc = r.docTree
+   doc.lst = {} do local lst = doc.lst
+      function lst.make(this) return {t=this} end
+      function lst.ap(nd,ch) nd.nxt = ch return nd end
+      function lst.ins(nd) local tmp = nd.nxt
+         nd.nxt,ch.nxt = ch,tmp return nd end
+      function lst.tail(nd)
+         if not nd.nxt then return nd else
+            return lst.last(nd.nxt) end end end
+
+   doc.ids = {} doc.queue = {} doc.root = {} doc.rects = {}
+   function doc.draw()
+      local function rec(nd)
+         repeat
+            if type(nd.t) == \"string\" then
+               local rect = doc.rects[nd.t]
+               r.vpPushQuad(rect)
+            else rec(nd.t) end
+            nd = nd.nxt
+         until not nd end 
+      for i,v in ipairs(doc.root) do rec(v) end
+   end
+end
+]]"
+              :fbaylh "local state = ...
+local db = state.root.__plugins.db
+
+local body = db.wnd.document.body
+--body.insertBefore(db.testelem,body.firstChild)
+
+db.logpulse = true
+db.iload = false"
               :ffgodn "DOM.log(tostring({1,2,3}))"
               :fhqvew "local r = ({...})[1].root
 r.stepper = coroutine.create(r.processQueue)"
               :fidmey "local state = ...
-state.root.__plugins = {}
+state.root.__plugins = state.root.__plugins or {}
 state.root.__plugins[\"Gui\"] = {
    name = \"Gui\",
    run = function() return end,
@@ -525,6 +832,8 @@ m.db.tags.guiwork = m.db.tags.guiwork or {}
 m[\"active-tags\"]:add(\"guiwork\")
 m.db.tags.vp = m.db.tags.vp or {}
 m[\"active-tags\"]:add(\"vp\")
+m.db.tags.uitree = m.db.tags.uitree or {}
+m[\"active-tags\"]:add(\"uitree\")
 
 
 function m.loadTag(tag)
@@ -538,8 +847,13 @@ end
 
 local guiwork = m.loadTag(\"guiwork\")
 local vp = m.loadTag(\"vp\")
+local uitree = m.loadTag(\"uitree\")
+
 vp(state)
 guiwork(state)
+uitree(state)
+
+
 
 table.insert(
    state[\"out-queue\"],
@@ -554,14 +868,16 @@ gui.drawListProgram = {}
 gui.drawListProgram.vs = [[#version 300 es
 in vec4 aPosition;
 in vec4 aColor;
+in vec2 aTranslate;
 out vec4 fColor;
-void main() { gl_Position = aPosition; fColor=aColor; }]]
+void main() { gl_Position = aPosition+vec4(aTranslate,0,0);
+              fColor=aColor; }]]
 
 gui.drawListProgram.fs = [[#version 300 es
 precision highp float;
 in vec4 fColor;
 out vec4 outColor;
-void main() { outColor = fColor; }]]
+void main() { outColor = fColor;}]]
 
 do local p = gui.drawListProgram
    p.stringLocFromCoro = EVAL([[(c,size,gl,attr,floatArr)=>{
@@ -583,11 +899,16 @@ do local p = gui.drawListProgram
    p.pBufCoro = coroutine.create(function() 
       while true do coroutine.yield(p.pBuf) end
    end)
+   p.tBufCoro = coroutine.create(function() 
+      while true do coroutine.yield(p.tBuf) end
+   end)
    function p.initProg(gl) p.gl = gl
       p.arrays = {
          aPosition={numComponents=3, data={},
                     drawType = p.gl.DYNAMIC_DRAW}, 
          aColor={numComponents=4, data={},
+                    drawType= p.gl.DYNAMIC_DRAW},
+         aTranslate={numComponents=2, data={},
                     drawType= p.gl.DYNAMIC_DRAW}
       }
       p.info = twgl.createProgramInfo(gl,{p.vs,p.fs})
@@ -597,27 +918,24 @@ do local p = gui.drawListProgram
    function p.updateBuffers()
       local flts = DOM.wasmoon.cmodule.module.HEAPF32
 
-      local pos = p.bufInfo.attribs.aPosition
       p.pBuf = table.concat(p.rectBuf.positions)
+      p.cBuf = table.concat(p.rectBuf.colors)
+      p.tBuf = table.concat(p.rectBuf.translate)
+
+      local pos = p.bufInfo.attribs.aPosition
       local pLen = #p.pBuf/4
       p.stringLocFromCoro(p.pBufCoro, pLen, p.gl, pos, flts)
 
       local color = p.bufInfo.attribs.aColor
-      p.cBuf = table.concat(p.rectBuf.colors)
       local cLen = #p.cBuf/4
       p.stringLocFromCoro(p.cBufCoro, cLen, p.gl, color, flts)
 
-      local r = state.root
-      if r.updateBufSig then
-         --local posB = flts.subarray(pLoc, pLoc+pLen)
-         local pos = p.bufInfo.attribs.aPosition
-         twgl.setAttribInfoBufferFromArray(p.gl,pos,posB)
-         local color = p.bufInfo.attribs.aColor
-         twgl.setAttribInfoBufferFromArray(p.gl,color,clrB)
-         r.updateBufSig = not r.updateBufSig
-         p.bufInfo.numElements = pLen / pos.numComponents
-      end
+      local trans = p.bufInfo.attribs.aTranslate
+      local tLen = #p.tBuf/4
+      p.stringLocFromCoro(p.tBufCoro, tLen, p.gl, trans, flts)
+
       p.bufInfo.numElements = pLen / pos.numComponents
+      p.numElem = pLen / pos.numComponents
    end
    function p.draw() local gl = p.gl
       gl.useProgram(p.info.program)
@@ -630,58 +948,128 @@ do local p = gui.drawListProgram
       gl.disable(gl.BLEND)
    end
 end"
-              :fpxieg "
---[=[
+              :fpxieg "local state = ...
+local gui = state.root.__plugins.Gui
 
-         gl.blendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA)
-         gl.enable(gl.BLEND)
-         gl.disable(gl.DEPTH_TEST)
-   
-         local list = s.root.drawCharList
-         local pos = gui.textBufferInfo.attribs.position
-         twgl.setAttribInfoBufferFromArray(
-            gl,pos,list.positions
-         )
-         local texCoord = gui.textBufferInfo.attribs.aCoord
-         twgl.setAttribInfoBufferFromArray(
-            gl,texCoord,list.chars
-         )
-         local ch = list.chars
-         gui.textBufferInfo.numElements = #ch / 2
+gui.drawTextProgram = {} do local p = gui.drawTextProgram
+   p.vs = [[#version 300 es
+in vec4 aPosition;
+in vec2 aCoord;
+in vec2 aTranslate;
+out vec2 coord;
+void main() { 
+  gl_Position = aPosition+vec4(aTranslate,0,0); coord=aCoord;
+}]]
+   p.fs = [[#version 300 es
+precision highp float; 
+out vec4 outColor;
 
-         gl.useProgram(gui.textProgramInfo.program)
-         twgl.setBuffersAndAttributes(gl,
-            gui.textProgramInfo,
-            gui.textBufferInfo
-         )
+in vec2 coord;
+//uniform float time;
+uniform sampler2D samp;
 
-         if not gui.atlasTexLoaded then
-            --[[]]
-            twgl.setTextureFromElement(gl,
-               gui.atlasTex,gui.atlasImg,{min=gl.LINEAR}
-            )
-            --]]
-            --[[
-            twgl.setTextureFromElement(gl,
-               gui.atlasTex,gui.atlasImg
-            )
-            --]]
-            gui.atlasTexLoaded = true
-         end
-         gui.textUniforms = {
-            time = gui.t,
-            samp = gui.atlasTex
-         }
-         twgl.setUniforms(
-            gui.textProgramInfo,
-            gui.textUniforms
+float median(float r, float g, float b) {
+    return max(min(r, g), min(max(r, g), b));
+}
+
+void main() {
+  //float th = 0.15+abs(sin(time/1.5))/3.0;
+  //th = th*7.0;
+  vec3 s = texture(samp,vec2(coord.x,-coord.y)).rgb;
+  float med = median(s.r, s.g, s.b);
+  float scale = 3.0; // 2.7; // this is approximate
+  // but it only applies to our current font size, it should
+  // be a uniform that accounts for device pixels, maybe just
+  // calculate it from resolution*dpr*portion-of-width ?
+  // check msdfgen for explanation, but we'll assume that
+  // the atlas is 32x32
+  float dist = (med - 0.5)*scale;
+  float o = clamp(dist + 0.5, 0.0, 1.0);
+  outColor = vec4(vec3(1), o);
+}]]
+   p.stringLocFromCoro = EVAL([[(c,size,gl,attr,floatArr)=>{
+      c.resume();
+      // check for LUA_YIELD or whatever
+      // see `resume` and `run` code in wasmoon's thread.ts
+      const top = c.getTop()
+      const byt = c.lua.module.ccall(\"luaL_tolstring\",\"number\",
+         [\"number\", \"number\", \"number\"],
+         [c.address,top,null]
+      );
+      const fltLoc = byt/4;
+      const arr = floatArr.subarray(fltLoc, fltLoc+size)
+      twgl.setAttribInfoBufferFromArray(gl,attr,arr)
+   };]])
+   p.cBufCoro = coroutine.create(function() 
+      while true do coroutine.yield(p.cBuf) end
+   end)
+   p.pBufCoro = coroutine.create(function() 
+      while true do coroutine.yield(p.pBuf) end
+   end)
+   p.tBufCoro = coroutine.create(function() 
+      while true do coroutine.yield(p.tBuf) end
+   end)
+   function p.initProg(gl) p.gl = gl
+      p.uniforms = {samp=p.tex}
+      p.arrays = {
+         aPosition={numComponents=3, data={},
+                    drawType = p.gl.DYNAMIC_DRAW}, 
+         aCoord={numComponents=2, data={},
+                    drawType= p.gl.DYNAMIC_DRAW},
+         aTranslate={numComponents=2, data={},
+                    drawType= p.gl.DYNAMIC_DRAW}
+
+      }
+      p.info = twgl.createProgramInfo(gl,{p.vs,p.fs})
+      p.bufInfo =
+         twgl.createBufferInfoFromArrays(p.gl,p.arrays)
+   end
+   function p.updateBuffers()
+      if not p.img.complete then return end
+      if not p.imgLoaded and p.img.complete then
+         twgl.setTextureFromElement(p.gl,p.tex,p.img,
+            {min=p.gl.LINEAR,mag=p.gl.LINEAR}
          )
-         twgl.drawBufferInfo(gl,gui.textBufferInfo)
-         gl.enable(gl.DEPTH_TEST)
-         gl.disable(gl.BLEND)
---]=]"
+         p.imgLoaded = true
+      end
+      local flts = DOM.wasmoon.cmodule.module.HEAPF32
+
+      p.pBuf = table.concat(p.charBuf.positions)
+      p.cBuf = table.concat(p.charBuf.coords)
+      p.tBuf = table.concat(p.charBuf.translate)
+
+      local pos = p.bufInfo.attribs.aPosition
+      local pLen = #p.pBuf/4
+      p.stringLocFromCoro(p.pBufCoro, pLen, p.gl, pos, flts)
+
+      local coord = p.bufInfo.attribs.aCoord
+      local cLen = #p.cBuf/4
+      p.stringLocFromCoro(p.cBufCoro, cLen, p.gl, coord, flts)
+
+      local trans = p.bufInfo.attribs.aTranslate
+      local tLen = #p.tBuf/4
+      p.stringLocFromCoro(p.tBufCoro, tLen, p.gl, trans, flts)
+
+      p.bufInfo.numElements = pLen / pos.numComponents
+      p.numElem = pLen / pos.numComponents
+   end
+   function p.draw() local gl = p.gl
+      gl.useProgram(p.info.program)
+      gl.blendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA)
+      gl.enable(gl.BLEND)
+      gl.disable(gl.DEPTH_TEST)
+      twgl.setBuffersAndAttributes(gl,p.info,p.bufInfo)
+      twgl.setUniforms(p.info,p.uniforms)
+      twgl.drawBufferInfo(gl,p.bufInfo)
+      gl.enable(gl.DEPTH_TEST)
+      gl.disable(gl.BLEND)
+   end
+end
+"
               :furtpb "local state = ...
 state.root.glyphInfo.texSize = 512"
+              :fxfkjb "local a = 1
+"
               :fysvtl "_G.test = nil"
               :gcxuqg "local state = ...
 local gui = state.root.__plugins.Gui
@@ -743,27 +1131,35 @@ function work.frame(s,plug) return end"
               :gkdble "local state = ...
 local work = state.root.__plugins.Work
 work.cnv.height = 300"
-              :gkeniz "-- Some Rects
-local state = ...
-local r = ({...})[1].root
-
-r.vpState.sizeFactor = 10
-
-local ct = r.cut
-local window = {
-   l=-9.25,r=4.3,t=5.65,b=-5,
-   clr={0.3,0.3,0.3,1}
-}
-local c1,c2 = ct.vSlice(window, 0.9)
-c1.clr = {0.25,0.25,0.25,1}
-c2.clr = {0.2,0.2,0.2,1}
-
-
-r.rects = {c1,c2}"
+              :gkeniz " "
               :gntngi "return"
               :gnuaoq "local state = ...
   DOM.log(state.root.msdfImg)
 "
+              :grcmwf "local r = ({...})[1].root
+
+function r.vpPushTri(tri,clr) -- TODO: implement clipping
+   r.rectCnt = (r.rectCnt or 0)+1
+   local sz = r.vpState.sizeFactor
+   local v,c = r.rectBuf.positions, r.rectBuf.colors
+   local sc = r.xOverY -- scaling
+   local xh,xv = tri[1]/sz, tri[2]/sz
+   local yh,yv = tri[3]/sz, tri[4]/sz
+   local zh,zv = tri[5]/sz, tri[6]/sz
+   if 1 > sc then
+      xv,yv,zv = xv*sc,yv*sc,zv*sc
+   else
+      xh,yh,zh = xh/sc,yh/sc,zh/sc
+   end
+   local sP = string.pack 
+   local len = #v
+   v[len+1] = sP(\"fffffffff\",xh,xv,0,yh,yv,0,zh,zv,0)
+   local l = #c
+   for i=1,3 do local ii = (i-1)*4
+      c[l+1+ii]=sP(\"f\",clr[1]) c[l+2+ii]=sP(\"f\",clr[2])
+      c[l+3+ii]=sP(\"f\",clr[3]) c[l+4+ii]=sP(\"f\",clr[4])
+   end
+end"
               :gztdne "local state = ...
 local work = state.root.__plugins.Work
 
@@ -774,31 +1170,59 @@ end"
               :hfmuco "DOM.log(DOM.new(\"FileReader\")())
 DOM.log(DOM.window.eval([[({\"apple\": {\"banana\": 2}})]]))"
               :hhihpe "return"
+              :hkfdma "local state = ...
+local r = state.root
+
+local ln = #r.rects
+local topleft = r.rects[1]
+local bottomright = r.rects[ln]
+local bounds = r.cut.copy(topleft)
+bounds.t = topleft.t
+bounds.l = topleft.l
+bounds.b = bottomright.b
+bounds.r = bottomright.r
+
+local function tl(rect, x,y) local rc = r.cut.copy(rect)
+   rc.l = rc.l+x rc.r = rc.r+x rc.t = rc.t+y rc.b = rc.b+y
+   return rc
+end
+local ln = #r.rects
+for i=1,ln do
+   local box = r.rects[i]
+   local bw = bounds.r-bounds.l
+   local bh = bounds.b-bounds.t
+   local w = box.r-box.l
+   local h = box.b-box.t
+   r.rects[ln+i] = tl(box,bw+w,0)
+   r.rects[ln*2+i] = tl(box,0,bh+h)
+   r.rects[ln*3+i]=tl(box,bw+w,bh+h)
+end
+
+DOM.log(#r.rects)
+DOM.log(#state.root.rectBuf.positions)
+DOM.log(#state.root.rectBuf.colors)
+
+
+
+
+
+
+"
               :hmpsmb "local state = ...
 local gui = state.root.__plugins.Gui
 
 function gui.frame(s,plug)
-   --collectgarbage()
-   --DOM.log(collectgarbage(\"count\"))
-   if gui.hook then gui.hook(s,s.panels[gui.name]) end
-
+   --local garb = collectgarbage(\"count\")
+   --DOM.log(garb)
+   --if garb > 5000 then collectgarbage() end
    local dpr = DOM.window.devicePixelRatio
    local gl = gui.gl
    twgl.resizeCanvasToDisplaySize(gl.canvas,dpr)
-   gl.viewport(0, 0, gl.canvas.width, gl.canvas.height)
+   gl.viewport(0, 0, gl.canvas.width, gl.canvas.height) --dpr?
    
    gui.t = (gui.t or 0) + 16
-   gui.uniforms.time = gui.t * 0.001
-   gui.uniforms.resolution[1] = gl.canvas.width
-   gui.uniforms.resolution[2] = gl.canvas.height
-
-   gl.useProgram(gui.programInfo.program)
-   twgl.setBuffersAndAttributes(gl,
-      gui.programInfo,
-      gui.bufferInfo
-   )
-   twgl.setUniforms(gui.programInfo, gui.uniforms)
-   twgl.drawBufferInfo(gl, gui.bufferInfo)
+   gui.drawBackgroundProgram.updateBuffers(gui.t * 0.001)
+   gui.drawBackgroundProgram.draw()
 
    if s.root.processQueue then
       local w,h = gui.cnv.width, gui.cnv.height
@@ -806,17 +1230,15 @@ function gui.frame(s,plug)
       s.root.pushEvent{type=\"update view\", xOverY=w/h}
 
       s.root.rectBufClear()
-      --s.root.charBufClear()
+      s.root.charBufClear()
       s.root.processQueue()
       s.root.update()
       gui.drawListProgram.rectBuf = s.root.rectBuf
       gui.drawListProgram.updateBuffers()
       gui.drawListProgram.draw()
-
-      if gui.atlasImg.complete then
-         --r.drawTextProgram.charBuf = s.root.charBuf
-         --r.drawTextProgram.draw()
-      end
+      gui.drawTextProgram.charBuf = s.root.charBuf
+      gui.drawTextProgram.updateBuffers()
+      gui.drawTextProgram.draw()
    end
 end
 "
@@ -826,6 +1248,15 @@ end
 local state = ...
 local m = state.plugins.Meta
 
+m.db.tags.msdfGlyphInfo = m.db.tags.msdfGlyphInfo or {}
+m[\"active-tags\"]:add(\"msdfGlyphInfo\")
+m.db.tags.serpent = m.db.tags.serpent or {}
+m[\"active-tags\"]:add(\"serpent\")
+m.db.tags.dbEdit = m.db.tags.dbEdit or {}
+m[\"active-tags\"]:add(\"dbEdit\")
+m.db.tags.uitree = m.db.tags.uitree or {}
+m[\"active-tags\"]:add(\"uitree\")
+
 m.db.tags.newWork = m.db.tags.newWork or {}
 m[\"active-tags\"]:add(\"newWork\")
 m.db.tags.thing = m.db.tags.thing or {}
@@ -834,6 +1265,8 @@ m.db.tags.guiwork = m.db.tags.guiwork or {}
 m[\"active-tags\"]:add(\"guiwork\")
 m.db.tags.glwrap = m.db.tags.glwrap or {}
 m[\"active-tags\"]:add(\"glwrap\")
+m.db.tags.xyzw = m.db.tags.xyzw or {}
+m[\"active-tags\"]:add(\"xyzw\")
 m.db.tags.vp = m.db.tags.vp or {}
 m[\"active-tags\"]:add(\"vp\")
 "
@@ -876,6 +1309,13 @@ function work.frame(s,plug)
    return
 end"
               :huvxcn " "
+              :huvxnx "
+local state = ...
+local m = state.plugins.Meta
+
+
+local serp = m.loadTag(\"serpent\")()
+DOM.log(serp)"
               :hwqgde "local s = ...
 s[\"container\"].firstChild.style.height = \"70px\"
 local header = s[\"container\"].firstChild
@@ -889,6 +1329,195 @@ state.root.__plugins.Work = {}
 work.name = \"Work\"
 work.run = function() return end
 "
+              :hzmigk "--[[
+      for k,_ in pairs(tags) do table.insert(db.tagList, k) end
+      table.sort(db.tagList)
+      if db.hasChanged then
+         db.fstTag.innerHTML = \"\"
+         for i=1,#db.tagList do
+           local dv = s.E(\"div\", {\"col\"}, db.tagList[i])
+           db.fstTag.appendChild(dv)
+         end
+      end
+
+
+
+   if db.wnd.document.readyState == 'complete' and 
+      not db.iload then
+         local body = db.wnd.document.body
+         DOM.log(\"iframe loaded\")
+   local wt = \"text-white\"
+   local function ent(txt) return s.E(\"pre\", {}, txt) end
+   local test = 
+      s.E(\"div\", {\"container-fluid\"},
+       s.E(\"div\", {\"row\", \"bg-primary\"},
+        s.E(\"div\", {\"col\",\"p-3\",\"bg-dark\",wt},
+                   ent(\"hello\"),
+                   ent(\"sailor\")),
+        s.E(\"div\", {\"col\",\"p-3\",\"bg-primary\",wt},ent(\"there\")),
+        s.E(\"div\", {\"col\",\"p-3\",\"bg-dark\",wt}, ent(\"world\"))))
+   test.firstChild.style.height = \"100%\";
+   test.style.position = \"absolute\";
+   test.style.height = \"100%\";
+   if db.testelem and 
+      db.testelem.isConnected then db.testelem.remove() end
+   db.testelem = test
+         body.appendChild(db.testelem)
+         db.iload = true
+   end
+--]]"
+              :ibuzxk "local n, v = \"serpent\", \"0.303\" -- (C) 2012-18 Paul Kulchenko; MIT License
+local c, d = \"Paul Kulchenko\", \"Lua serializer and pretty printer\"
+local snum = {[tostring(1/0)]='1/0 --[[math.huge]]',[tostring(-1/0)]='-1/0 --[[-math.huge]]',[tostring(0/0)]='0/0'}
+local badtype = {thread = true, userdata = true, cdata = true}
+local getmetatable = debug and debug.getmetatable or getmetatable
+local pairs = function(t) return next, t end -- avoid using __pairs in Lua 5.2+
+local keyword, globals, G = {}, {}, (_G or _ENV)
+for _,k in ipairs({'and', 'break', 'do', 'else', 'elseif', 'end', 'false',
+  'for', 'function', 'goto', 'if', 'in', 'local', 'nil', 'not', 'or', 'repeat',
+  'return', 'then', 'true', 'until', 'while'}) do keyword[k] = true end
+for k,v in pairs(G) do globals[v] = k end -- build func to name mapping
+for _,g in ipairs({'coroutine', 'debug', 'io', 'math', 'string', 'table', 'os'}) do
+  for k,v in pairs(type(G[g]) == 'table' and G[g] or {}) do globals[v] = g..'.'..k end end
+
+local function s(t, opts)
+  local name, indent, fatal, maxnum = opts.name, opts.indent, opts.fatal, opts.maxnum
+  local sparse, custom, huge = opts.sparse, opts.custom, not opts.nohuge
+  local space, maxl = (opts.compact and '' or ' '), (opts.maxlevel or math.huge)
+  local maxlen, metatostring = tonumber(opts.maxlength), opts.metatostring
+  local iname, comm = '_'..(name or ''), opts.comment and (tonumber(opts.comment) or math.huge)
+  local numformat = opts.numformat or \"%.17g\"
+  local seen, sref, syms, symn = {}, {'local '..iname..'={}'}, {}, 0
+  local function gensym(val) return '_'..(tostring(tostring(val)):gsub(\"[^%w]\",\"\"):gsub(\"(%d%w+)\",
+    -- tostring(val) is needed because __tostring may return a non-string value
+    function(s) if not syms[s] then symn = symn+1; syms[s] = symn end return tostring(syms[s]) end)) end
+  local function safestr(s) return type(s) == \"number\" and (huge and snum[tostring(s)] or numformat:format(s))
+    or type(s) ~= \"string\" and tostring(s) -- escape NEWLINE/010 and EOF/026
+    or (\"%q\"):format(s):gsub(\"\\010\",\"n\"):gsub(\"\\026\",\"\\\\026\") end
+  -- handle radix changes in some locales
+  if opts.fixradix and (\".1f\"):format(1.2) ~= \"1.2\" then
+    local origsafestr = safestr
+    safestr = function(s) return type(s) == \"number\"
+      and (nohuge and snum[tostring(s)] or numformat:format(s):gsub(\",\",\".\")) or origsafestr(s)
+    end
+  end
+  local function comment(s,l) return comm and (l or 0) < comm and ' --[['..select(2, pcall(tostring, s))..']]' or '' end
+  local function globerr(s,l) return globals[s] and globals[s]..comment(s,l) or not fatal
+    and safestr(select(2, pcall(tostring, s))) or error(\"Can't serialize \"..tostring(s)) end
+  local function safename(path, name) -- generates foo.bar, foo[3], or foo['b a r']
+    local n = name == nil and '' or name
+    local plain = type(n) == \"string\" and n:match(\"^[%l%u_][%w_]*$\") and not keyword[n]
+    local safe = plain and n or '['..safestr(n)..']'
+    return (path or '')..(plain and path and '.' or '')..safe, safe end
+  local alphanumsort = type(opts.sortkeys) == 'function' and opts.sortkeys or function(k, o, n) -- k=keys, o=originaltable, n=padding
+    local maxn, to = tonumber(n) or 12, {number = 'a', string = 'b'}
+    local function padnum(d) return (\"%0\"..tostring(maxn)..\"d\"):format(tonumber(d)) end
+    table.sort(k, function(a,b)
+      -- sort numeric keys first: k[key] is not nil for numerical keys
+      return (k[a] ~= nil and 0 or to[type(a)] or 'z')..(tostring(a):gsub(\"%d+\",padnum))
+           < (k[b] ~= nil and 0 or to[type(b)] or 'z')..(tostring(b):gsub(\"%d+\",padnum)) end) end
+  local function val2str(t, name, indent, insref, path, plainindex, level)
+    local ttype, level, mt = type(t), (level or 0), getmetatable(t)
+    local spath, sname = safename(path, name)
+    local tag = plainindex and
+      ((type(name) == \"number\") and '' or name..space..'='..space) or
+      (name ~= nil and sname..space..'='..space or '')
+    if seen[t] then -- already seen this element
+      sref[#sref+1] = spath..space..'='..space..seen[t]
+      return tag..'nil'..comment('ref', level)
+    end
+    -- protect from those cases where __tostring may fail
+    if type(mt) == 'table' and metatostring ~= false then
+      local to, tr = pcall(function() return mt.__tostring(t) end)
+      local so, sr = pcall(function() return mt.__serialize(t) end)
+      if (to or so) then -- knows how to serialize itself
+        seen[t] = insref or spath
+        t = so and sr or tr
+        ttype = type(t)
+      end -- new value falls through to be serialized
+    end
+    if ttype == \"table\" then
+      if level >= maxl then return tag..'{}'..comment('maxlvl', level) end
+      seen[t] = insref or spath
+      if next(t) == nil then return tag..'{}'..comment(t, level) end -- table empty
+      if maxlen and maxlen < 0 then return tag..'{}'..comment('maxlen', level) end
+      local maxn, o, out = math.min(#t, maxnum or #t), {}, {}
+      for key = 1, maxn do o[key] = key end
+      if not maxnum or #o < maxnum then
+        local n = #o -- n = n + 1; o[n] is much faster than o[#o+1] on large tables
+        for key in pairs(t) do
+          if o[key] ~= key then n = n + 1; o[n] = key end
+        end
+      end
+      if maxnum and #o > maxnum then o[maxnum+1] = nil end
+      if opts.sortkeys and #o > maxn then alphanumsort(o, t, opts.sortkeys) end
+      local sparse = sparse and #o > maxn -- disable sparsness if only numeric keys (shorter output)
+      for n, key in ipairs(o) do
+        local value, ktype, plainindex = t[key], type(key), n <= maxn and not sparse
+        if opts.valignore and opts.valignore[value] -- skip ignored values; do nothing
+        or opts.keyallow and not opts.keyallow[key]
+        or opts.keyignore and opts.keyignore[key]
+        or opts.valtypeignore and opts.valtypeignore[type(value)] -- skipping ignored value types
+        or sparse and value == nil then -- skipping nils; do nothing
+        elseif ktype == 'table' or ktype == 'function' or badtype[ktype] then
+          if not seen[key] and not globals[key] then
+            sref[#sref+1] = 'placeholder'
+            local sname = safename(iname, gensym(key)) -- iname is table for local variables
+            sref[#sref] = val2str(key,sname,indent,sname,iname,true)
+          end
+          sref[#sref+1] = 'placeholder'
+          local path = seen[t]..'['..tostring(seen[key] or globals[key] or gensym(key))..']'
+          sref[#sref] = path..space..'='..space..tostring(seen[value] or val2str(value,nil,indent,path))
+        else
+          out[#out+1] = val2str(value,key,indent,nil,seen[t],plainindex,level+1)
+          if maxlen then
+            maxlen = maxlen - #out[#out]
+            if maxlen < 0 then break end
+          end
+        end
+      end
+      local prefix = string.rep(indent or '', level)
+      local head = indent and '{\\n'..prefix..indent or '{'
+      local body = table.concat(out, ','..(indent and '\\n'..prefix..indent or space))
+      local tail = indent and \"\\n\"..prefix..'}' or '}'
+      return (custom and custom(tag,head,body,tail,level) or tag..head..body..tail)..comment(t, level)
+    elseif badtype[ttype] then
+      seen[t] = insref or spath
+      return tag..globerr(t, level)
+    elseif ttype == 'function' then
+      seen[t] = insref or spath
+      if opts.nocode then return tag..\"function() --[[..skipped..]] end\"..comment(t, level) end
+      local ok, res = pcall(string.dump, t)
+      local func = ok and \"((loadstring or load)(\"..safestr(res)..\",'@serialized'))\"..comment(t, level)
+      return tag..(func or globerr(t, level))
+    else return tag..safestr(t) end -- handle all other types
+  end
+  local sepr = indent and \"\\n\" or \";\"..space
+  local body = val2str(t, name, indent) -- this call also populates sref
+  local tail = #sref>1 and table.concat(sref, sepr)..sepr or ''
+  local warn = opts.comment and #sref>1 and space..\"--[[incomplete output with shared/self-references skipped]]\" or ''
+  return not name and body..warn or \"do local \"..body..sepr..tail..\"return \"..name..sepr..\"end\"
+end
+
+local function deserialize(data, opts)
+  local env = (opts and opts.safe == false) and G
+    or setmetatable({}, {
+        __index = function(t,k) return t end,
+        __call = function(t,...) error(\"cannot call functions\") end
+      })
+  local f, res = (loadstring or load)('return '..data, nil, nil, env)
+  if not f then f, res = (loadstring or load)(data, nil, nil, env) end
+  if not f then return f, res end
+  if setfenv then setfenv(f, env) end
+  return pcall(f)
+end
+
+local function merge(a, b) if b then for k,v in pairs(b) do a[k] = v end end; return a; end
+return { _NAME = n, _COPYRIGHT = c, _DESCRIPTION = d, _VERSION = v, serialize = s,
+  load = deserialize,
+  dump = function(a, opts) return s(a, merge({name = '_', compact = true, sparse = true}, opts)) end,
+  line = function(a, opts) return s(a, merge({sortkeys = true, comment = true}, opts)) end,
+  block = function(a, opts) return s(a, merge({indent = '  ', sortkeys = true, comment = true}, opts)) end }"
               :icmyjd "local state = ...
 table.insert(state.prsv.db.tags.guiwork,\"ckvbqb\")"
               :idujdu "local a = ...
@@ -971,6 +1600,282 @@ DOM.log(sty)"
             w,1, 0,h, w,h,
          },},
       }"
+              :iwtknx "-- Doc Tree
+local r = ({...})[1].root
+
+r.docTree = {} do local doc = r.docTree
+   doc.lst = {} do local lst = doc.lst
+      function lst.make(this) return {t=this} end
+      function lst.ap(nd,ch) nd.nxt = ch return nd end
+      function lst.ins(nd) local tmp = nd.nxt
+         nd.nxt,ch.nxt = ch,tmp return nd end
+      function lst.tail(nd)
+         if not nd.nxt then return nd else
+            return lst.tail(nd.nxt) end end end
+
+   doc.ids = {}
+   doc.queue = {}
+   doc.root = {}
+   doc.rects = {}
+   doc.tris = {}
+   doc.clips = {}
+   doc.chars = {}
+   doc.translations = {}
+   function doc.draw()
+      r.clipStk = {}
+      local function rec(nd)
+         repeat
+            
+            local tl = doc.translations[nd.t]
+            if type(nd.t) == \"string\" then
+               local char = doc.chars[nd.t]
+               local rect = doc.rects[nd.t]
+               local tris = doc.tris[nd.t]
+               local clip = doc.clips[nd.t]
+               if tl then r.pushTL(tl.x,tl.y) end
+               if char then r.vpPushChar(rect, char) end
+               if not char and rect then r.vpPushQuad(rect) end
+               if not char and tris then
+                  for _,tri in ipairs(tris) do
+                     r.vpPushTri(tri,tris.clr)
+                  end
+               end
+            end
+            if nd.ch then
+               if clip then table.insert(r.clipStk, clip) end
+               rec(nd.ch)
+               if clip then table.remove(r.clipStk) end
+            end
+            if tl then r.popTL() end
+            nd = nd.nxt
+         until not nd
+      end 
+      for i,v in ipairs(doc.root) do rec(v) end
+   end
+   function doc.makeID()
+      local tbl={}
+      for i=1,10 do tbl[i]=string.char(math.random(97,122)) end
+      local s = table.concat(tbl)
+      if doc.ids[s] then
+         DOM.log(\"ID collision!!!\")
+         return doc.makeID()
+      else
+         doc.ids[s]= true
+         return s
+      end
+   end
+   function doc.register(rect,name)
+      local id = doc.makeID()
+      doc.rects[id]=rect
+      if name then doc.names[name]=id end
+      return doc.lst.make(id)
+   end
+   function doc.insert(parentID,id)
+   end
+   function doc.pushEvent(evt) table.insert(doc.queue,evt) end
+   function doc.processEvents()
+      for i,v in ipairs(doc.queue) do
+         if v.t == \"down\" then
+            local id = doc.top(x,y)
+         end
+      end
+   end
+   
+   doc.ct = r.cut
+   doc.nodes = {}
+   doc.attached = {}
+   doc.heads = {}
+   doc.names = {}
+   function doc.getRect(id)
+      if not doc.ids[id] then 
+         return nil,\"node doesn't exist\"
+      end
+      if not doc.rects[id] then
+         return nil,\"rect doesn't exist\"
+      end
+      return doc.rects[id]
+   end
+   function doc.registerRect(rect,name)
+      local id = doc.makeID()
+      local node = doc.lst.make(id)
+      doc.rects[id]=doc.ct.copy(rect)
+      doc.nodes[id]=node
+      if name then doc.names[name]=id doc.names[id]=name end
+      return id
+   end
+   function doc.insertAfterAllAtRoot(id)
+      local node = doc.nodes[id]
+      if not node then return nil,\"node does not exist\" end
+      if doc.attached[id] then
+        return nil, \"already connected\"
+      end
+      table.insert(doc.root,node)
+      doc.attached[id] = true
+      return true
+   end
+   function doc.insertBeforeAllAtRoot(id)
+      local node = doc.nodes[id]
+      if not node then return nil,\"node does not exist\" end
+      if doc.attached[id] then
+         return nil, \"already connected\"
+      end
+      table.insert(doc.root,1,node)
+      doc.attached[id] = true
+      return true
+   end
+   function doc.insert(id,chId)
+      local node = doc.nodes[id]
+      local chNode = doc.nodes[chId]
+      if not node then return nil,\"parent does not exist\" end
+      if not chNode then return nil,\"node does not exist\" end
+      if not doc.attached[id] then
+         return nil, \"parent is not connected\"
+      end
+      if doc.attached[chId] then
+         return nil, \"already connected\"
+      end
+      doc.lst.tail(node).nxt = chNode
+      doc.attached[chId] = true
+      return true
+   end
+   function doc.child(id,chId)
+      local node = doc.nodes[id]
+      local chNode = doc.nodes[chId]
+      if not node then return nil,\"parent does not exist\" end
+      if not chNode then return nil,\"node does not exist\" end
+      if not doc.attached[id] then
+         return nil, \"parent is not connected\"
+      end
+      if doc.attached[chId] then
+         return nil, \"already connected\"
+      end
+      if not node.ch then
+         node.ch = chNode
+      else doc.lst.tail(node.ch).nxt = chNode end
+      doc.attached[chId] = true
+      return true
+   end
+   function doc.registerChar(rect,char,name)
+      local charQuad = doc.ct.copy(rect)
+      local gi = r.glyphInfo
+      local unit = (charQuad.t-charQuad.b) / gi.lineHeight
+      local chInfo = gi.chars[char]
+      charQuad.l = charQuad.l+(chInfo.xoffset * unit)
+      charQuad.r = charQuad.l+(chInfo.width * unit)
+      charQuad.t = charQuad.t-(chInfo.yoffset * unit)
+      charQuad.b = charQuad.t-(chInfo.height * unit)
+      --DOM.log(rect,charQuad,char)
+      --DOM.log(unit,chInfo.xoffset)
+
+      local id = doc.makeID()
+      local node = doc.lst.make(id)
+      doc.chars[id]=char
+      doc.rects[id]=charQuad
+      doc.nodes[id]=node
+      if name then doc.names[name]=id end
+      return id
+   end
+   function doc.registerClip(rect,name)
+      local clipRect = doc.ct.copy(rect)
+      local id = doc.makeID()
+      local node = doc.lst.make(id)
+      doc.clips[id]=clipRect
+      doc.nodes[id]=node
+      if name then doc.names[name]=id end
+      return id
+   end
+   function doc.changeColor(id, r, g, b, a)
+      if doc.nodes[id] and doc.rects[id] then
+         local clr = doc.rects[id].clr
+         clr[1],clr[2],clr[3],clr[4] = r,g,b,a
+         return true
+      else
+         return nil,\"there is no node or it is not a rect node\"
+      end
+   end
+   function doc.getAllChildrenSet(id)
+      local node = doc.nodes[id]
+      local set = {}
+      if node then
+         local child = node.ch
+         while child do 
+            set[child.t] = child.t child = child.nxt
+         end
+         return set
+      else
+         return nil,\"there is no node\"
+      end
+   end
+   function doc.remove(parentId,id)
+      local node = doc.nodes[id]
+      local parent = doc.nodes[parentId]
+      if parent.ch == node then
+         doc.attached[node.t]=nil
+         parent.ch = node.nxt node.nxt = nil
+         return true
+      else
+         local cursor = parent.ch
+         while cursor.nxt do
+            if cursor.nxt.t == id then
+               doc.attached[cursor.nxt.t]=nil
+               cursor.nxt = cursor.nxt.nxt
+               return true
+            end
+            cursor = cursor.nxt
+         end
+         return nil,\"not a child of the parent\"
+      end
+   end
+   function doc.removeSiblingAfter(siblingId,id)
+      local node = doc.nodes[id]
+      local sib = doc.nodes[siblingId]
+      if sib.nxt == node then
+         doc.attached[node.t]=nil
+         sib.nxt = node.nxt node.nxt = nil
+         return true
+      else
+         local cursor = sib.nxt
+         while cursor.nxt do
+            if cursor.nxt.t == id then
+               doc.attached[cursor.nxt.t]=nil
+               cursor.nxt = cursor.nxt.nxt
+               return true
+            end
+            cursor = cursor.nxt
+         end
+         return nil,\"not a child of the parent\"
+      end
+   end
+   function doc.deleteSelfAndChildren(id)
+      local node = doc.nodes[id]
+      if not node then
+         return nil,\"node does not exist\"
+      end
+      if doc.attached[id] then
+         return nil,\"node is still attached\"
+      end
+      local nodeStk = {node}
+      local cursor = table.remove(nodeStk)
+      while cursor do
+         local id = cursor.t
+         doc.attached[id] = nil
+         doc.heads[id] = nil
+         doc.names[id] = nil
+         doc.ids[id] = nil
+         doc.rects[id] = nil
+         doc.clips[id] = nil
+         doc.chars[id] = nil
+         doc.translations[id] = nil
+         doc.nodes[id] = nil
+         if cursor.nxt then
+            table.insert(nodeStk,cursor.nxt)
+         end
+         if cursor.ch then table.insert(nodeStk,cursor.ch) end
+         cursor = table.remove(nodeStk)
+      end
+      return true
+   end
+end"
               :iywhob "local r = ({...})[1].root
 local touches = r.cursors.touches
 
@@ -999,6 +1904,29 @@ end
 
 "
               :jcvhwb "collectgarbage()"
+              :jeqqmf "function sumOfSquares(n)
+   local res = 0
+   while n > 0 do
+      res = res + (n % 10)^2
+      n = math.floor(n / 10)
+   end
+   return res
+end
+
+--[[]]
+function happy(n)
+local slow,fast = n,sumOfSquares(n)
+DOM.log(slow,fast)
+while slow ~= fast do
+   slow = sumOfSquares(slow)
+   fast = sumOfSquares(
+      sumOfSquares(fast)
+   )
+   DOM.log(slow,fast)
+end
+return slow == 1
+end
+--]]"
               :jezqvv "local s = ...
 local rt = s.root
 rt.verts = {}
@@ -1041,6 +1969,41 @@ for i,r in ipairs(rt.rects) do
    table.insert(rt.colors, 1)
 end
 "
+              :jrcmid "local r = ({...})[1].root
+local doc = r.docTree
+doc.root = {}
+
+         local window = {
+            l=-9.25,r=4.3,t=5.65,b=-5,
+            clr={0.3,0.5,0.5,1}
+         }
+         local win = {
+            l=-8.25,r=-2.5,t=4.65,b=-4,
+            clr={0.2,0.5,0.2,1}
+         }
+         local win2 = {
+            l=-2.5,r=3.3,t=4.65,b=-4,
+            clr={0.2,0.2,0.5,1}
+         }
+         local n = doc.registerRect(window,\"r2\")
+         doc.insertBeforeAllAtRoot(n)
+         doc.child(n,doc.registerRect(win,\"green\"))
+         doc.child(n,doc.registerRect(win2,\"blue\"))
+
+         local window = {
+            l=-7.25,r=6.3,t=5.65,b=-5,
+            clr={0.3,0.3,0.3,1}
+         }
+         local win = {
+            l=-6.25,r=5.3,t=4.65,b=-4,
+            clr={0.2,0.2,0.2,1}
+         }
+         local n = doc.registerRect(window)
+         doc.insertBeforeAllAtRoot(n)
+         local m = doc.registerRect(win)
+         doc.child(n,m)
+         doc.translations[n] = {x=0,y=1}
+         doc.translations[m] = {x=0,y=1}"
               :jruoep "local state = ...
 state.cum = 10"
               :jurdcy "local state = ...
@@ -1061,27 +2024,7 @@ end
 
 function gui.load(s,plug) return end
 function gui.frame(s,plug) return end"
-              :jvtyne "-- Doc Tree
-local r = ({...})[1].root
-
-r.docTree = {} do local doc = r.docTree
-   doc.root = {}
-   doc.ids = {}
-   doc.rects = {}
-   function doc.draw() end
-   function doc.register(rect,name)
-      local id = doc.makeID()
-      doc.ids[id]=true
-      doc.rects[id]=rect
-      if name then doc.names[name]=id end
-   end
-
-   
-   
-   
-   
-end
-"
+              :jvtyne " "
               :jyycdl "local state = ...
 local gui = state.root.__plugins.Gui
 
@@ -1096,6 +2039,47 @@ local stat = ...
 
 DOM.log(stat)"
               :kpmcfm "DOM.dlstr(\"oct3-MoonBounce.txt\")"
+              :kvhrnr "local r = ({...})[1].root
+
+if r.tempDrawText then
+
+do local p,c = r.drawCharList.positions, r.drawCharList.chars
+   for i=1,#p do p[i]=nil end
+   for i=1,#c do c[i]=nil end
+end
+
+local list = r.drawCharList
+local ra = r.xOverY
+
+-- Drag block of text
+local lineHeight = 0.045
+
+local function tl(rect, x, y)
+   rect.l = rect.l+x rect.r = rect.r+x
+   rect.t = rect.t+y rect.b = rect.b+y
+end
+
+local advancer = -.9
+local top = 0.47
+local px = lineHeight / r.glyphInfo.lineHeight
+local adv = px*25
+
+   local info = r.glyphInfo.chars[letter]
+   local charRect = r.texCharCoordsMap[letter]
+   local w,h = info.width, info.height
+   local rt = w/h
+   local bar = advancer
+   local rect = {l=bar, r= bar+w*px,
+                 t= top, b=  top-h*px}
+   tl(rect,info.xoffset*px/ra,-info.yoffset*px)
+   r.rectIntoVerts3(rect, list.positions, r.xOverY)
+   r.rectIntoVerts2(charRect, list.chars)
+
+--   r.rectIntoVerts3(rect, list.positions)
+--   r.rectIntoVerts2({l=0,r=0.25,t=0,b=0.5}, list.chars)
+   advancer = advancer+adv
+end
+"
               :kzuhyy "local state = ...
 state.root.updateBufSig = true"
               :laufuk "local state = ...
@@ -1131,6 +2115,15 @@ DOM.log(textProgramInfo)"
 local gui = state.root.__plugins.Gui
 DOM.log(gui.successfulLoadBuffer)
 DOM.log(gui.bufferInfo)"
+              :ljblbp "local r = ({...})[1].root
+local s = ...
+local doc = r.docTree
+local ct = r.cut
+
+function r.charInRect() end
+local gui = r.__plugins.Gui
+--
+DOM.log(gui.atlasImg.width)"
               :ljedob "DOM.log(DOM.window.devicePixelRatio)"
               :lkicnm " "
               :lrmafx " "
@@ -1215,6 +2208,7 @@ void main() {
 }
 ]]
 "
+              :mgbnnz " "
               :miqrcx "local state = ..."
               :mmbqbz "local bytes = DOM.wasmoon.cmodule.module.HEAP32
 --DOM.log(DOM.wasmoon)
@@ -1247,6 +2241,28 @@ if not ok then DOM.log(err) else
    local bytes = DOM.wasmoon.cmodule.module.HEAPF32
    DOM.log(bytes.subarray(v/4,(v/4)+1))
 end"
+              :mobjso "local state = ...
+
+local db = state.root.__plugins[\"db\"]
+
+function db.sanitize(s,plug)
+   if not db.isLoaded then
+      db.isLoaded = true
+      local plugs = state.root.__plugins
+      if not s.panels[db.name] 
+         or not plugs[\"Meta\"] or not plugs[\"Meta\"].db
+         then
+         db.isLoaded = false
+      else
+         db.m = plugs[\"Meta\"]
+         db.load(s,plug)
+      end
+   end
+   if db.isLoaded then db.frame(s,plug) end
+end
+
+function db.load(s,plug) return end
+function db.frame(s,plug) return end"
               :nikvfk "local s = ...
 s.root.inQueueGLprogs = nil"
               :nwsflu "local targetRects = {}
@@ -1271,6 +2287,8 @@ r.pushEvent{type=\"touch down\", inputid=2, x=-0.1,y=0.3}
 r.pushEvent{type=\"touch up\", inputid=1}
 r.pushEvent{type=\"touch down\", inputid=3, x=-0.1,y=0.3}
 "
+              :odkcow "local r = ({...})[1].root
+DOM.log(#r.charBuf.translate[1])"
               :oexutb "local state = ...
 local work = state.root.__plugins.Work
 
@@ -1296,12 +2314,28 @@ local flt = string.pack(\"n\",1000)
 
 _G.test = {string.pack(\"f\",100)}
 "
+              :ojyfqk "local state = ...
+local m = state.plugins.Meta
+
+local serp = m.loadTag(\"serpent\")()
+
+--local str = serp.dump(state.root.docTree.rects)
+local str = serp.dump(state.prsv)
+DOM.log(str)
+DOM.log(serp.load(str))"
               :ouqopx "local state = ...
 local gui = state.root.__plugins.Gui
 local ub = gui.drawListProgram.updateBuffers
 gui.drawListProgram.updateBuffers = function()
    ub()
    DOM.log(gui.drawListProgram.cBuf)
+end"
+              :owadhz "local r = ({...})[1].root
+
+do local doc = r.docTree
+   local nl = r.nodeListing
+   
+   --nl.widget = nil
 end"
               :ozejwa "local s = ...
 
@@ -1339,16 +2373,18 @@ end
 "
               :pdaodi "return a"
               :peaolx " "
+              :pfcawp "DOM.log(happy(99999999))
+
+
+
+
+
+
+
+
+
+"
               :pfxrkf "local r = ({...})[1].root
-
-r.drawList = {
-   verts={},
-   colors={},
-}
-
-r.drawCharList = {positions={}, chars={}}
-r.rectBuf = {positions={},colors={}}
-
 
 r.cursors = {}
 r.cursors.touches = {}"
@@ -1404,6 +2440,77 @@ end
 "
               :pqcfeh "local r = ({...})[1].root
 DOM.log(\"hi\")"
+              :ptqlbd "local state = ...
+local gui = state.root.__plugins.Gui
+
+gui.drawBackgroundProgram = {}
+
+do local p = gui.drawBackgroundProgram
+   p.vs = [[#version 300 es
+in vec4 aPosition;
+
+void main() {
+  gl_Position = aPosition;
+}
+]]
+
+   p.fs = [[#version 300 es
+precision highp float;
+
+uniform vec2 resolution;
+uniform float time;
+out vec4 fragColor;
+
+void main() {
+  vec2 uv = (gl_FragCoord.xy*2.0 - resolution) / resolution.y;
+  float color = length(uv);
+  color = sin(color*8.0+time)/8.0;
+  color = abs(color);
+  color = step(0.08, color);
+  vec3 finalColor = vec3(5.0);
+  finalColor *= color;
+  fragColor = vec4( color, 0,.8, 1.0 );
+}
+]]
+
+   p.arrays = {
+      aPosition={
+         numComponents=3, 
+         data={
+            -1, -1, 0,  1, -1, 0,
+            -1,  1, 0, -1,  1, 0,
+             1, -1, 0,  1,  1, 0
+         }
+      }
+   }
+   function p.initProg(gl) p.gl = gl
+      p.info = twgl.createProgramInfo(p.gl,{p.vs,p.fs})
+      p.cnv = p.gl.canvas
+      p.uniforms = {
+         time=0,
+         resolution={p.cnv.width, p.cnv.height}
+      }
+      p.bufInfo =
+         twgl.createBufferInfoFromArrays(p.gl,p.arrays)
+   end
+   function p.updateBuffers(t)
+      p.uniforms.time = t
+      p.uniforms.resolution[1] = p.gl.canvas.width
+      p.uniforms.resolution[2] = p.gl.canvas.height
+   end
+   function p.draw() local gl = p.gl
+      gl.useProgram(p.info.program)
+      gl.blendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA)
+      gl.enable(gl.BLEND)
+      --gl.disable(gl.DEPTH_TEST)
+      twgl.setBuffersAndAttributes(gl,p.info,p.bufInfo)
+      twgl.setUniforms(p.info,p.uniforms)
+      twgl.drawBufferInfo(gl,p.bufInfo)
+      --gl.enable(gl.DEPTH_TEST)
+      gl.disable(gl.BLEND)
+   end
+end
+"
               :pufaug "DOM.log(collectgarbage(\"count\"))
 
 
@@ -1465,6 +2572,29 @@ local r = s.root
 r.stk=0
 r.lstk=0
 r.walk(r.tree)"
+              :qcbwvx "local state = ...
+local db = state.root.__plugins[\"db\"]
+
+function db.load(s,plug)
+   local p = s.panels[db.name]
+   db.iframe = s.E(\"iframe\", {})
+   db.iframe.srcdoc = [[
+<!DOCTYPE html>
+<html lang=\"en\">
+<head>
+  <title>Bootstrap 5 Example</title>
+  <meta charset=\"utf-8\">
+  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
+  <script src=\"//cdn.jsdelivr.net/npm/eruda\"></script>
+  <script>eruda.init();</script>
+  <link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css\" rel=\"stylesheet\">
+  <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js\"></script>
+</head>
+<body>
+</body>
+</html>
+   ]]
+end"
               :qciyvz "local state = ...
 local tex = state.root.__plugins.Gui.atlasImg
 local cnv = state.E(\"canvas\", {})
@@ -1485,19 +2615,42 @@ ctx.drawImage(tex,0,0)
 "
               :qcozig "local r = ({...})[1].root
 
-r.vpState = {x=0,y=0,sizeFactor=15}
+r.vpState = {x=0,y=0,sizeFactor=20}
 r.rects = {}
 local r = ({...})[1].root
 
 function r.update()
    --local sf = r.vpState.sizeFactor
-   --r.vpState.sizeFactor = sf+math.sin(r.t*5)
-
-   if not r.texCharCoordsMap then
-      r.texCharCoordsMap = {}
-      for k,_ in pairs(r.glyphInfo.chars) do
-         r.texCharCoordsMap[k] = r.getCharTexCoords(k)
+   local reg = r.cursors.touches.registry
+   local sff = r.vpState.sizeFactor
+   --r.vpState.sizeFactor = sff+math.sin(r.t*5)
+   
+   if r.nodeListing and r.nodeListing.doc then
+      r.nodeListing.walk()
+   end
+   if r.docTree then
+      r.docTree.touches = {}
+      for i,touch in pairs(reg) do
+         local x,y = touch.x*sff,touch.y*sff
+         if touch.id == r.cursors.touches.primary then
+            local hovered = r.docTree.top(x,y)
+            r.docTree.touches.primary = hovered
+            r.docTree.touches.primaryx = x
+            r.docTree.touches.primaryy = y
+         else
+            local hovered = nil
+            if x and y then
+               hovered = r.docTree.top(x,y)
+            end
+            r.docTree.touches[i] = {x=x,y=y,hovered=hovered}
+         end
       end
+   end
+   if r.nodeListing and r.nodeListing.doc then
+      r.nodeListing.update()
+   end
+   if r.docTree then 
+      r.docTree.draw()
    end
 
    local rt = r
@@ -1505,123 +2658,22 @@ function r.update()
       r.vpPushQuad(rect)
    end
 
+   r.pushTL(-1,1)
 
-
-   local reg = r.cursors.touches.registry
    
-   local sff = r.vpState.sizeFactor
    for i,touch in pairs(reg) do
       local x,y = touch.x*sff,touch.y*sff
+      local hovered = r.docTree and r.docTree.top(x,y)
+      --print(hovered)
       if touch.id == r.cursors.touches.primary then
-         r.pushCenteredQuad(x+5,y+5,4,4)
-         r.pushCenteredQuad(x,y+5,4,4)
-         r.pushCenteredQuad(x-5,y+5,4,4)
-         r.pushCenteredQuad(x+5,y,4,4)
-         r.pushCenteredQuad(x,y,4,4)
-         r.pushCenteredQuad(x-5,y,4,4)
-         r.pushCenteredQuad(x+5,y-5,4,4)
-         r.pushCenteredQuad(x,y-5,4,4)
-         r.pushCenteredQuad(x-5,y-5,4,4)
-
-         r.pushCenteredQuad(x+5,y+10,4,4)
-         r.pushCenteredQuad(x,y+10,4,4)
-         r.pushCenteredQuad(x-5,y+10,4,4)
-         r.pushCenteredQuad(x+10,y,4,4)
-         r.pushCenteredQuad(x,y,4,4)
-         r.pushCenteredQuad(x-10,y,4,4)
-         r.pushCenteredQuad(x+10,y-10,4,4)
-         r.pushCenteredQuad(x,y-10,4,4)
-         r.pushCenteredQuad(x-10,y-10,4,4)
+         r.pushCenteredQuad(x,y,3,3)
       else
          r.pushCenteredQuad(x,y,2,2)
-         r.pushCenteredQuad(x+5,y+5,2,2)
-         r.pushCenteredQuad(x,y+5,2,2)
-         r.pushCenteredQuad(x-5,y+5,2,2)
-         r.pushCenteredQuad(x+5,y,2,2)
-         r.pushCenteredQuad(x,y,2,2)
-         r.pushCenteredQuad(x-5,y,2,2)
-         r.pushCenteredQuad(x+5,y-5,2,2)
-         r.pushCenteredQuad(x,y-5,2,2)
-         r.pushCenteredQuad(x-5,y-5,2,2)
-
-
-         r.pushCenteredQuad(x+5,y+10,2,2)
-         r.pushCenteredQuad(x,y+10,2,2)
-         r.pushCenteredQuad(x-5,y+10,2,2)
-         r.pushCenteredQuad(x+10,y,2,2)
-         r.pushCenteredQuad(x,y,2,2)
-         r.pushCenteredQuad(x-10,y,2,2)
-         r.pushCenteredQuad(x+10,y-10,2,2)
-         r.pushCenteredQuad(x,y-10,2,2)
-         r.pushCenteredQuad(x-10,y-10,2,2)
       end
    end
+   r.popTL()
    r.t = (r.t or 0) + 0.016
-
-if r.tempDrawText then
-
-do local p,c = r.drawCharList.positions, r.drawCharList.chars
-   for i=1,#p do p[i]=nil end
-   for i=1,#c do c[i]=nil end
-end
-
-local list = r.drawCharList
-local ra = r.xOverY
---r.rectIntoVerts3({l=0,r=w,t=1-0.2,b=h-0.2}, list.positions, ra)
---r.rectIntoVerts2({l=0,r=w,t=1,b=h}, list.chars)
-
-
-
--- Drag block of text
-local lineHeight = 0.045
-
-local function tl(rect, x, y)
-   rect.l = rect.l+x rect.r = rect.r+x
-   rect.t = rect.t+y rect.b = rect.b+y
-end
-
-local advancer = -.9
-local top = 0.47
-local px = lineHeight / r.glyphInfo.lineHeight
-local adv = px*25
-local str = [[
-
-local x = {r=1,l=0,b=0,t=1}
-
-function translate(r, x, y)
-   r.l = r.l+x
-   r.r = r.r+x
-   r.t = r.t-y
-   r.b = r.b-y
-end
-
-translate(x,1,2)
-]]
-for letter in string.gmatch(str,\".\") do repeat
-   if letter == \" \" then advancer = advancer+adv break end
-   if letter == \"\\n\" then advancer = -.9 
-      top = top - lineHeight
-      break
-   end
-   local info = r.glyphInfo.chars[letter]
-   local charRect = r.texCharCoordsMap[letter]
-   local w,h = info.width, info.height
-   local rt = w/h
-   local bar = advancer
-   local rect = {l=bar, r= bar+w*px,
-                 t= top, b=  top-h*px}
-   tl(rect,info.xoffset*px/ra,-info.yoffset*px)
-   r.rectIntoVerts3(rect, list.positions, r.xOverY)
-   r.rectIntoVerts2(charRect, list.chars)
-
---   r.rectIntoVerts3(rect, list.positions)
---   r.rectIntoVerts2({l=0,r=0.25,t=0,b=0.5}, list.chars)
-   advancer = advancer+adv
-until true end
-end
-
-end
-"
+end"
               :qcyywk "local state = ...
 local gui = state.root.__plugins.Gui
 state.root.__plugins[\"Gui\"].run = function ()
@@ -1630,6 +2682,90 @@ state.root.__plugins[\"Gui\"].run = function ()
    end
 end
 gui.countgarbage = not gui.countgarbage"
+              :qdxkty "local r = ({...})[1].root
+local doc = r.docTree
+
+r.nodeListing = {} do local nl = r.nodeListing
+   function nl.walk()
+      local rtRect,msg = doc.getRect(nl.uiRoot)
+      local cRect = nl.doc.ct.shrink(rtRect,0.1)
+      if nl.listingToIds then
+         for k,_ in pairs(nl.listingToIds) do
+            nl.listingToIds[k] = nil
+         end
+      end
+      nl.listingToIds = nl.listingToIds or {}
+      if nl.clippedList then
+         nl.doc.remove(nl.uiRoot,nl.clippedList)
+         local ok,m =
+            nl.doc.deleteSelfAndChildren(nl.clippedList)
+         --if not ok then DOM.log(m) end
+      end
+      nl.clippedList = nl.doc.registerClip(cRect)
+      local clip = nl.clippedList
+      doc.child(nl.uiRoot,clip)
+      
+      local growRect = nl.doc.ct.copy(cRect)
+      local entryHeight = 0.85
+      growRect.b = growRect.t-entryHeight
+      local entry = nl.doc.ct.copy(growRect)
+
+      for i,node in ipairs(doc.root) do
+         local stk = {node}
+         if node.t ~= nl.uiRoot then
+         while next(stk) do
+            --DOM.log(fennel.view(stk))
+            local node = table.remove(stk)
+            if node == \"pop indent\" then
+               node = table.remove(stk)
+               entry.l = entry.l-(entryHeight/45)*25
+               if not node then break end
+            end
+            if node.nxt then table.insert(stk,node.nxt) end
+            if type(node.t) == \"string\" then
+               local initial = entry.l
+               local newEntry = doc.ct.copy(entry)
+               local entryNode = nl.doc.registerRect(newEntry)
+               local ok,msg = doc.child(clip,entryNode)
+               --if not ok then DOM.log(msg) end
+               local str = doc.names[node.t] or node.t
+               nl.listingToIds[entryNode] = node.t
+               for i=1,#str do
+                  local char = string.sub(str,i,i)
+                  local ch = nl.doc.registerChar(entry,char)
+                  entry.l = entry.l+(entryHeight/45)*25
+                  local ok,msg = doc.child(entryNode,ch)
+                  nl.listingToIds[ch] = node.t
+                  --if not ok then DOM.log(msg) end
+               end
+               entry.l = initial
+            end
+            if node.ch then
+               table.insert(stk,\"pop indent\")
+               table.insert(stk,node.ch)
+               entry.l = entry.l+(entryHeight/45)*25
+            end
+            entry.t = entry.t-entryHeight
+            entry.b = entry.b-entryHeight
+         end end
+      end
+   end
+   function nl.attach(doc)
+      nl.doc = doc
+      local sff = r.vpState.sizeFactor
+      nl.baseRect = {
+         l=-sff*14/15,r=-sff*3/15,t=sff*0.9,b=-sff*0.9,
+         clr={0.18,0.18,0.18,1}
+      }
+      nl.uiRoot = doc.registerRect(nl.baseRect)
+      local ok,msg = doc.insertAfterAllAtRoot(nl.uiRoot)
+   end
+   function nl.pushEvent() end
+   function nl.processEvents() end
+   function nl.update() end
+end
+
+r.nodeListing.attach(r.docTree)"
               :qmenpf " 
 "
               :qnbrfv "local state = ...
@@ -1649,6 +2785,25 @@ m[\"active-tags\"]:add(\"glwrap\")
 local insp=DOM.document.querySelector(\".mb-viewport\").lastChild
 insp.style.setProperty(\"border\",\"40px\")
 DOM.log(insp.style.cssText)"
+              :qnxmsi "local state = ...
+local r = state.root
+r.lst = {}
+local lst = r.lst
+function lst.print(nd,tbl)
+   if not tbl then return lst.print(nd,{}) end
+   local tt,ins = type(nd.t),function(x) 
+      table.insert(tbl,x)
+   end
+   if tt==\"table\" then
+      ins \"(\" if nd.t then lst.print(nd.t,tbl) end ins \")\"
+   elseif tt==\"number\" then ins(tostring(nd.t))
+   elseif tt==\"string\" then ins(nd.t) end
+   if type(nd)==\"table\" and not nd.nxt then
+      return \"( \"..table.concat(tbl,\" \")..\" )\"
+   else
+      return lst.print(nd.nxt,tbl)
+   end
+end"
               :qqjcfn "local state = ...
 local work = state.root.__plugins.Work
 
@@ -1721,6 +2876,13 @@ DOM.dlstr(
    DOM.window.localStorage[\"prsv-img\"],
    \"oct8-MoonBounce.txt\"
 )"
+              :rpkybf "local state = ...
+state.root.__plugins = state.root.__plugins or {}
+state.root.__plugins[\"db\"] = {
+   name = \"db\",
+   run = function() return end,
+   sanitize = function(s,plug) return end,
+}"
               :rsmsze "local state = ...
 state.root.__plugins.Gui.atlasTexLoaded = false"
               :rsnhjs "ok,err = pcall(function()
@@ -1741,33 +2903,7 @@ function gui.load(s,plug)
    local p = s.panels[gui.name]
    local msdf, json = m.loadTag(\"msdf\")()
    gui.droidSansMonoMSDFbase64 = msdf
-   local droidSansMonoGlyphInfoJSON = json
-   local jsontxt = droidSansMonoGlyphInfoJSON
-   local info = DOM.window.JSON.parse(jsontxt)
-
-   local jsonTbl = {}
-
-   jsonTbl.base = info.common.base
-   jsonTbl.lineHeight = info.common.lineHeight
-   jsonTbl.texSize = 512
-   jsonTbl.chars = {}
-   local chars = jsonTbl.chars
-   for i,char in ipairs(info.chars) do
-     local c = {}
-     chars[char.char] = c
-     c.id = char.id
-     c.char = char.char
-     c.width = char.width
-     c.height = char.height
-     c.xoffset = char.xoffset
-     c.yoffset = char.yoffset
-     c.xadvance = char.xadvance
-     c.x = char.x
-     c.y = char.y
-   end
-
-   gui.jsonTbl = jsonTbl
-   s.root.glyphInfo = gui.jsonTbl
+   s.root.glyphInfo = m.loadTag(\"msdfGlyphInfo\")()
 
    if gui.cnv then gui.cnv.remove() end
    gui.atlasImg = s.E(\"img\", {})
@@ -1840,45 +2976,36 @@ function gui.load(s,plug)
 
    gui.gl = gui.cnv.getContext(\"webgl2\")
    local gl = gui.gl
-   gui.programInfo = twgl.createProgramInfo(
-      gl, {gui.vs, gui.fs}
-   )
- 
-   local arrays = {
-      position = {
-         -1, -1, 0,
-          1, -1, 0,
-         -1,  1, 0,
-         -1,  1, 0,
-          1, -1, 0,
-          1,  1, 0
-      }
-   }
-   gui.uniforms = {
-      time=0,
-      resolution= {gl.canvas.width, gl.canvas.height},
-   }
-   gui.bufferInfo = 
-      twgl.createBufferInfoFromArrays(gl, arrays);
    
-   gui.textProgramInfo = twgl.createProgramInfo(
-      gl, {gui.txtvs, gui.txtfs}
-   )
-   
-   local arrays = {
-      position={numComponents=3,
-         data={0,0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,0}
-      },
-      aCoord={numComponents=2,
-         data={0,0,0,0,0,0, 0,0,0,0,0,0}
-      },
-   }
-   gui.textBufferInfo = twgl.createBufferInfoFromArrays(
-      gl, arrays
-   )
-   
-   gui.atlasTex = twgl.createTexture(gl)
+   gui.drawTextProgram.img = gui.atlasImg
+   gui.drawTextProgram.tex = twgl.createTexture(gl)
+   gui.drawTextProgram.initProg(gl)
+   gui.drawBackgroundProgram.initProg(gl)
    gui.drawListProgram.initProg(gl)
+end"
+              :rxipeh "-- Doc Tree Top
+local r = ({...})[1].root
+do local doc = r.docTree --
+   function doc.top(x,y)
+      doc.sel = nil
+      local xOff, yOff = 0,0
+      function rec(node)
+         repeat
+            local rt = doc.rects[node.t]
+            local tl = doc.translations[node.t]
+            if tl then xOff=xOff-tl.x yOff=yOff-tl.y end
+            if rt and rt.l<x+xOff and x+xOff<rt.r and
+               rt.t>y+yOff and y+yOff>rt.b then
+               doc.sel = node.t
+            end
+            if node.ch then rec(node.ch) end
+            if tl then xOff=xOff+tl.x yOff=yOff+tl.y end
+            node = node.nxt
+         until not node
+      end
+      for i,v in ipairs(doc.root) do rec(v) end
+      return doc.sel
+   end
 end"
               :shkqgh "local state = ...
 local work = state.root.__plugin.Work
@@ -1914,6 +3041,26 @@ function work.load(s,plug)
 end
 
 "
+              :sibivw "local r = ({...})[1].root
+
+function r.vpPushQuad(rect) -- TODO: implement clipping
+   r.rectCnt = (r.rectCnt or 0)+2
+   local sz = r.vpState.sizeFactor
+   local v,c = r.rectBuf.positions, r.rectBuf.colors
+   local sc = r.xOverY -- scaling
+   local t,b,l,r = rect.t/sz,rect.b/sz,rect.l/sz,rect.r/sz 
+   if 1 > sc then t,b = t*sc,b*sc else l,r = l/sc,r/sc end
+   local sP = string.pack 
+   local len = #v
+   v[len+1] = sP(
+      \"ffffffffffffffffff\",l,t,0,l,b,0,r,t,0,r,t,0,l,b,0,r,b,0
+   )
+   local clr = rect.clr local l = #c
+   for i=1,6 do local ii = (i-1)*4
+      c[l+1+ii]=sP(\"f\",clr[1]) c[l+2+ii]=sP(\"f\",clr[2])
+      c[l+3+ii]=sP(\"f\",clr[3]) c[l+4+ii]=sP(\"f\",clr[4])
+   end
+end"
               :sicioa "local r = ({...})[1].root
 
 local h = 1-46/512
@@ -1931,43 +3078,53 @@ r.drawCharList = {
 DOM.log(state.root.Gui)"
               :snvzhk "local state = ...
 local gui = state.root.__plugins.Gui
+"
+              :sqmphp "local r = ({...})[1].root
 
-gui.txtvs=[[#version 300 es
-in vec4 position;
-in vec2 aCoord;
-out vec2 coord;
-void main() { 
-  gl_Position = position; coord=aCoord; }]]
+r.translationStk = {}
 
-gui.txtfs=[[#version 300 es
-precision highp float; 
-out vec4 outColor;
+function r.pushTL(x,y)
+   table.insert(r.translationStk, r.transX or 0)
+   table.insert(r.translationStk, r.transY or 0)
+   do 
+      local x = (r.transX or 0)/r.vpState.sizeFactor
+      local y = (r.transY or 0)/r.vpState.sizeFactor
+      local sc = r.xOverY
+      if 1 > sc then y = y*sc else x = x/sc end
+      local tl = string.pack(\"ff\", x,y)
+      table.insert(
+         r.rectBuf.translate, string.rep(tl,(r.rectCnt or 0)*3)
+      )
+      table.insert(
+         r.charBuf.translate, string.rep(tl,(r.charCnt or 0)*3)
+      )
+   end
+   r.rectCnt = 0
+   r.charCnt = 0
 
-in vec2 coord;
-uniform float time;
-uniform sampler2D samp;
+   
+   r.transX = x + (r.transX or 0)
+   r.transY = y + (r.transY or 0)
+end
 
-float median(float r, float g, float b) {
-    return max(min(r, g), min(max(r, g), b));
-}
+function r.popTL()
+   local x = (r.transX or 0)/r.vpState.sizeFactor
+   local y = (r.transY or 0)/r.vpState.sizeFactor
+   local sc = r.xOverY
+   if 1 > sc then y = y*sc else x = x/sc end
+   local tl = string.pack(\"ff\", x,y)
+   table.insert(
+      r.rectBuf.translate, string.rep(tl,(r.rectCnt or 0)*3)
+   )
+   table.insert(
+      r.charBuf.translate, string.rep(tl,(r.charCnt or 0)*3)
+   )
+   r.rectCnt = 0
+   r.charCnt = 0
 
-void main() {
-  float th = 0.15+abs(sin(time/1.5))/3.0;
-  th = th*7.0;
-  vec3 s = texture(samp,vec2(coord.x,-coord.y)).rgb;
-  float med = median(s.r, s.g, s.b);
-  float scale = 3.0; // 2.7; // this is approximate
-  // but it only applies to our current font size, it should
-  // be a uniform that accounts for device pixels, maybe just
-  // calculate it from resolution*dpr*portion-of-width ?
-  // check msdfgen for explanation, but we'll assume that
-  // the atlas is 32x32
-  float dist = (med - 0.5)*scale;
-  float o = clamp(dist + 0.5, 0.0, 1.0);
-  outColor = vec4(vec3(1), o);
-}]]
-
---DOM.log(gui.atlasImg.complete)"
+   r.transY = table.remove(r.translationStk)
+   r.transX = table.remove(r.translationStk)
+end"
               :srvebu "local s = ...
 s[\"container\"].firstChild.style.height = \"50px\"
 s[\"container\"].firstChild.style.outline = \"\"
@@ -1981,6 +3138,32 @@ function t.vertBuf(gl,data)
   gl.bufferData(gl.ARRAY_BUFFER, data, gl.STATIC_DRAW)
   return buf
 end"
+              :sxyija "local a = [[
+local r / . 1 :root / ...
+
+set r.docTree # list
+
+do / local doc r.docTree
+   
+   fn doc.draw () / icollect <> v tbl :into tbl <> + v 1
+
+   fn doc.draw () / icollect / v tbl :into tbl \\ + v 1
+   fn doc.update () / doc.emptyOut doc.rects
+      
+   fn doc.make (t) {: t}
+   fn doc.ap (nd ch) (set nd.nxt ch) nd
+   fn doc.ins (nd)
+      with-return nd / local tmp nd.nxt
+         set / nd.nxt ch.nxt \\ ch tmp
+   fn doc.tail (nd)
+      or / and (not nd.nxt) nd \\ doc.tail nd.nxt
+      ifn nd / and nd.nxt / doc.tail nd.nxt
+   set / doc.ids doc.queue doc.root doc.rects \\ () () () ()
+   fn doc.draw ()
+      fn rec (nd) until / not nd
+         if (not= (type nd.t) :string) (rec nd.t) / r.vpPushQuad / . doc.rects nd.t
+      ieach v doc.root / rec v
+]]"
               :tadhbv "local state = ...
 local gui = state.root.__plugins.Gui
 DOM.log(gui.successfulLoadBuffer)
@@ -2060,6 +3243,17 @@ void main() {
       prog.uniforms={time=r.t,samp=r.tex}
       r.testprog = prog"
               :udmanp "DOM.log(collectgarbage(\"count\"))"
+              :ukdbik "
+local state = ...
+local m = state.plugins.Meta
+
+   local code = {\"local s = ...\"}
+   for _,key in ipairs(m.db.tags[\"guiwork\"]) do
+      table.insert(code, m.db.snips[key])
+   end
+   local codestr = table.concat(code,\"\\n\")
+local _,n = codestr:gsub(\"\\n\",\"\\n\")
+DOM.log(n)"
               :umwszh "
 local state = ...
 local m = state.plugins[\"Meta\"]
@@ -2068,6 +3262,126 @@ m.db.tags.vp = m.db.tags.vp or {}
 m[\"active-tags\"]:add(\"vp\")
 "
               :urdvmd "DOM.dlstr(DOM.window.localStorage[\"prsv-img\"],\"nhcode.txt\")"
+              :uuczjj " "
+              :uurfeb "local r = ({...})[1].root
+
+do local nl = r.nodeListing
+   function nl.makeMenu()
+      if nl.menu then
+         local ok,msg = nl.doc.remove(nl.uiRoot, nl.menu)
+         if not ok then DOM.log(msg) end
+         local ok,msg = nl.doc.deleteSelfAndChildren(nl.menu)
+         if not ok then DOM.log(msg) end
+         nl.menu = nil
+      end
+
+      if not nl.selectedChild then return end
+      local menuRect = nl.doc.ct.copy(
+         nl.doc.getRect(nl.selectedTreeChild)
+      )
+      local width = nl.baseRect.r - nl.baseRect.l
+      menuRect.l = menuRect.r
+      menuRect.r = menuRect.r+width*0.7
+      local height = menuRect.t - menuRect.b
+
+      nl.menu = nl.doc.registerRect(menuRect)
+      nl.doc.child(nl.uiRoot,nl.menu)
+
+      local ct = nl.doc.ct
+      nl.menuItems = {
+         \"clone as child\",
+         \"clone as sibling\",
+         \"edit\",
+         \"save to snip\",
+         \"delete\",
+         \"collapse/expand\"
+      }
+      local itemRect = ct.copy(menuRect)
+      for _,item in ipairs(nl.menuItems) do
+         local rect = nl.doc.registerRect(itemRect,item)
+         nl.doc.child(nl.menu,rect)
+         nl.menuItems[rect] = item
+         local itemCharCont = ct.copy(itemRect)
+         for i=1,#item do
+            local char = string.sub(item,i,i)
+            local ch = nl.doc.registerChar(itemCharCont,char)
+            nl.doc.child(rect,ch)
+            nl.menuItems[ch] = item
+            itemCharCont.l = itemCharCont.l+(height/45)*25
+         end
+         itemRect.t,itemRect.b =
+            itemRect.t-height,itemRect.b-height
+      end
+   end
+   function nl.update()
+
+      local sff = r.vpState.sizeFactor
+      local uiR = nl.doc.getRect(nl.uiRoot)
+      uiR.l,uiR.r,uiR.t,uiR.b =
+         -sff*14/15,-sff*3/15,sff*0.9,-sff*0.9
+      local xOff = 0
+      if r.xOverY > 1 then
+         l = nl.doc.getRect(nl.uiRoot).l
+         local edge = (r.xOverY - 1) * r.vpState.sizeFactor
+         xOff = -edge
+      end
+      local tl = nl.doc.translations[nl.uiRoot]
+      if not tl then
+         nl.doc.translations[nl.uiRoot] = {x=xOff,y=0}
+      else
+         tl.x = xOff tl.y=0
+      end
+
+
+
+      local children = nl.doc.getAllChildrenSet(nl.clippedList)
+      local activeTreeChild = children[nl.doc.touches.primary]
+      nl.selectedChild =
+         nl.listingToIds and nl.listingToIds[activeTreeChild]
+         or nl.selectedChild
+      if nl.doc.touches.primary == nl.uiRoot or
+         nl.doc.touches.primary == nl.clippedList then
+         nl.selectedChild = nil
+      end
+      nl.selectedTreeChild = nil
+      for k,_ in pairs(children) do
+         if nl.listingToIds[k] == nl.selectedChild then
+            nl.selectedTreeChild = k break
+         end
+      end
+      if nl.selectedTreeChild then
+          nl.doc.changeColor(nl.selectedTreeChild, 0, 0, 0, 1)
+      end
+      --nl.makeMenu()
+      local x,y =
+         nl.doc.touches.primaryx, nl.doc.touches.primaryy
+      local newTouch = x and y and nl.doc.top(x,y)
+      --[[
+      local selectedMenuItem = newTouch and nl.menuItems and
+         nl.menuItems[newTouch]
+      if selectedMenuItem then
+         local nodeID = nl.selectedChild
+         if selectedMenuItem == \"clone as child\" then
+            local rt,msg = nl.doc.getRect(nodeID)
+            if not rt then DOM.log(msg) else
+               local clone = nl.doc.registerRect(rt)
+               nl.doc.child(nodeID,clone)
+            end
+         end
+         if selectedMenuItem == \"edit\" then
+            nl.widgetTarget = nodeID
+         end
+         if selectedMenuItem == \"delete\" then
+            nl.widgetTarget = nil
+         end
+         nl.selectedChild = nil
+      end
+      --]]
+      nl.widgetTarget = nl.selectedChild
+      if nl.makeWidget then nl.makeWidget() end
+   end
+end
+"
               :uzvkpb "DOM.log(twgl)"
               :vfdbrx "local r = ({...})[1].root
 
@@ -2195,7 +3509,45 @@ state.root.__plugins.Work = {}"
               :wexyxc "local state = ...
 DOM.log(#state.root.rectBuf.positions)"
               :wfufol " "
+              :wrckkb "local r = ({...})[1].root
+
+function r.vpPushChar(rect,char) -- TODO: implement clipping
+   r.charCnt = (r.charCnt or 0)+2
+   local sz = r.vpState.sizeFactor
+   local v,c = r.charBuf.positions, r.charBuf.coords
+   local sc = r.xOverY -- scaling
+   local rt = r
+   local t,b,l,r = rect.t/sz,rect.b/sz,rect.l/sz,rect.r/sz 
+   if 1 > sc then t,b = t*sc,b*sc else l,r = l/sc,r/sc end
+   local sP = string.pack 
+   local len = #v
+   v[len+1] = sP(
+      \"ffffffffffffffffff\",l,t,0,l,b,0,r,t,0,r,t,0,l,b,0,r,b,0
+   )
+   if not rt.texCharCoordsMap then
+      local r = rt
+      r.texCharCoordsMap = {}
+      for k,_ in pairs(r.glyphInfo.chars) do
+         r.texCharCoordsMap[k] = r.getCharTexCoords(k)
+      end
+   end
+
+   local crds = rt.texCharCoordsMap[char]
+   local t,b,l,r = crds.t,crds.b,crds.l,crds.r
+   local len = #c
+   c[len+1] = sP(
+      \"ffffffffffff\",l,t,l,b,r,t,r,t,l,b,r,b
+   )
+end"
               :xaczms " "
+              :xgprrz "local state = ...
+local l = state.root.lst
+local docTree = state.root.docTree
+
+DOM.log(l.print(l.ap(l.make(docTree.makeID()),
+                     l.make(l.make(docTree.makeID())))))
+
+"
               :xheiie "
 local state = ...
 local ok,err = pcall(function()
@@ -2301,36 +3653,168 @@ s[\"container\"].firstChild.style.outline = \"2px solid red\"
               :znbihq " "
               :zrwxje "local r = ({...})[1].root
 
-function r.drawListRefresh()
-   local v = r.drawList.verts
-   for i=1,#v do v[i] = nil end
-   local c = r.drawList.colors
-   for i=1,#c do c[i] = nil end
-end
+r.rectBuf = {positions={},colors={},translate={}}
+r.charBuf = {positions={},coords={},translate={}}
 
 function r.rectBufClear()
    local v = r.rectBuf.positions  for i=1,#v do v[i]=nil end
    local c = r.rectBuf.colors for i=1,#c do c[i]=nil end
+   local t = r.rectBuf.translate for i=1,#t do t[i]=nil end
+   local tl = r.translationStk for i=1,#tl do tl[i]=nil end
+   r.transX = nil r.transY = nil
+end
+
+function r.charBufClear()
+   local v = r.charBuf.positions  for i=1,#v do v[i]=nil end
+   local c = r.charBuf.coords for i=1,#c do c[i]=nil end
+   local t = r.charBuf.translate for i=1,#t do t[i]=nil end
+end
+
+r.rectCnt = 0
+r.charCnt = 0"
+              :ztswoo " "
+              :zuxswd "local r = ({...})[1].root
+
+do local doc = r.docTree
+   local nl = r.nodeListing
+
+   function doc.pathToNode(id)
+      local thisNode = doc.nodes[id]
+      if not thisNode then return nil,\"no node\" end
+      for i,node in ipairs(doc.root) do
+         local stk = {}
+         repeat 
+            if node == thisNode then
+               table.insert(stk,thisNode)
+               return stk
+            end
+            if node.ch then
+               table.insert(stk,node)
+               node = node.ch
+            else
+               node = table.remove(stk).nxt
+            end
+         until not node
+      end
+   end
+
+   doc.constraints = {}
+   
+   function nl.makeWidget()
+      if not nl.widget then 
+         nl.widget = {}
+         nl.widget.container = nl.doc.registerRect(
+            {l=-1,r=1,t=1,b=-1,clr={1,1,1,0.1}}
+         )
+         nl.widget.translationButton = nl.doc.registerRect(
+            {l=-1,r=1,t=1,b=-1,clr={1,1,1,0.3}}
+         )
+         nl.widget.circ = nl.doc.registerRect(
+            {l=-1,r=1,t=1,b=-1,clr={1,1,1,0}}
+         )
+         local circ = {clr={0.1,0.1,0.1,1}}
+         local circout = {clr={0.05,0.05,0.05,1}}
+         local sin,cos,tau = math.sin,math.cos,math.pi*2
+         for i=1,35 do
+            local fst, snd = tau*(i-1)/20, tau*(i)/20
+            local a,b,c,d = sin(fst),cos(fst),sin(snd),cos(snd)
+            table.insert(circ,{0,0,a*2,b*2,c*2,d*2})
+            table.insert(circout,{0,0,a*2.2,b*2.2,c*2.2,d*2.2})
+         end
+         doc.tris[nl.widget.circ] =
+            circ
+      end
+      if not nl.widgetTarget and nl.widget.container then
+         local attached = nl.doc.attached[nl.widget.container]
+         if attached then
+            nl.doc.removeSiblingAfter(
+               nl.uiRoot, nl.widget.container
+            )
+         end
+      end
+      if nl.widgetTarget then
+         local rect,msg = nl.doc.getRect(nl.widgetTarget)
+         if not rect then
+            DOM.log(\"No Rect: \"..msg)
+            nl.widgetTarget = nil
+            return
+         end
+         local width,height = rect.r-rect.l,rect.t-rect.b
+         local centerx,centery = rect.l+width/2,rect.b+height/2
+         local rad = width > height and height/10 or width/10
+         local container = nl.doc.getRect(nl.widget.container)
+         container.l=rect.l
+         container.r=rect.r
+         container.b=rect.b
+         container.t=rect.t
+         local path = nl.doc.pathToNode(nl.widgetTarget)
+         local x,y = 0,0
+         if path then
+            for i,v in ipairs(path) do
+               local tl = nl.doc.translations[v.t]
+               if tl then x=x+tl.x y=y+tl.y end
+            end
+         end
+         nl.doc.translations[nl.widget.container] = {x=x,y=y}
+         local tButton = nl.doc.getRect(
+            nl.widget.translationButton
+         )
+         tButton.l=centerx-rad
+         tButton.r=centerx+rad
+         tButton.b=centery-rad
+         tButton.t=centery+rad
+         if not nl.doc.attached[nl.widget.container] then
+            nl.doc.insert(nl.uiRoot,nl.widget.container)
+            nl.doc.child(
+               nl.widget.container,nl.widget.translationButton
+            )
+         end
+         local x = nl.doc.touches.primaryx
+         local y = nl.doc.touches.primaryy
+         local top = x and y and nl.doc.top(x,y)
+         nl.widget.menuOpen =
+            top == nl.widget.translationButton
+            or nl.widget.menuOpen
+         local menu = nl.widget.menu
+         if not nl.doc.touches.primary
+               and nl.widget.menuOpen then
+            nl.doc.remove(nl.widget.container,menu)
+            nl.doc.remove(nl.widget.container,nl.widget.circ)
+            nl.widget.menuOpen = nil
+         end
+         if nl.widget.menuOpen then
+            nl.doc.translations[nl.widget.circ] =
+              {x=centerx,y=centery}
+            nl.doc.child(
+               nl.widget.container,nl.widget.circ
+            )
+            local secondary = nl.doc.touches[1]
+         end
+      end
+      local cnt = 0
+      --for k,v in pairs(nl.doc.rects) do cnt = cnt+1 end
+      --DOM.log(cnt)
+   end
 end"
-              :ztswoo " "}
-      :tags {:glwrap ["eytzse"
+              :zvhija "return 1
+"}
+      :tags {:dbEdit ["rpkybf" "mobjso" "qcbwvx" "blollv"]
+             :glwrap ["umwszh"
+                      "eytzse"
                       "aiynew"
                       "vofvme"
                       "deamyb"
                       "qbwwry"
-                      "lzksdj"
-                      "jezqvv"]
+                      "lzksdj"]
              :guiwork ["fidmey"
                        "jurdcy"
                        "ruzaru"
                        "hmpsmb"
-                       "ckvbqb"
-                       "snvzhk"
                        "fowllh"
-                       "kckpwv"
-                       "pntfcs"
-                       "fpxieg"]
+                       "fpxieg"
+                       "ptqlbd"]
              :msdf ["tefxhq"]
+             :msdfGlyphInfo ["abdefg"]
              :newWork ["shkqgh"
                        "mfyref"
                        "qqjcfn"
@@ -2344,27 +3828,35 @@ end"
                        "cxczbs"
                        "rmgrkg"
                        "fmraay"
-                       "blucld"
-                       "gkeniz"
-                       "zfnvvd"
-                       "jvtyne"
-                       "qcyywk"
-                       "ifmpzr"
-                       "esvnqh"
-                       "kzuhyy"
-                       "wexyxc"
-                       "dqgagy"]
-             :thing ["hyyyxq"
-                     "umwszh"
+                       "asxccy"
+                       "ukdbik"
+                       "bqybmp"]
+             :serpent ["ibuzxk"]
+             :thing ["jezqvv"
                      "igeelg"
-                     "cqiknz"
                      "tadhbv"
                      "vtlmvi"
                      "ifsste"
                      "xlvwtk"
                      "qciyvz"
                      "tqdktw"
-                     "rsmsze"]
+                     "cqiknz"
+                     "rsmsze"
+                     "hkfdma"
+                     "qnxmsi"
+                     "fbaylh"
+                     "eprihp"
+                     "kvhrnr"]
+             :uitree ["blucld"
+                      "iwtknx"
+                      "jrcmid"
+                      "rxipeh"
+                      "dohblt"
+                      "cymebw"
+                      "qdxkty"
+                      "uurfeb"
+                      "zuxswd"
+                      "owadhz"]
              :utgl ["rcdufq" "biblpp" "stuskm" "akteek"]
              :vp ["pfxrkf"
                   "bbejct"
@@ -2372,4 +3864,10 @@ end"
                   "zrwxje"
                   "qcozig"
                   "bpzijc"
-                  "pundoy"]}}}
+                  "pundoy"
+                  "sibivw"
+                  "wrckkb"
+                  "sqmphp"
+                  "grcmwf"]
+             :xyz {}
+             :xyzw ["ojyfqk"]}}}
