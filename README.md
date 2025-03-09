@@ -1,5 +1,6 @@
-# https://qgcarver.github.io/MoonBounce-web
-
+# MoonBounce
+## Demo
+https://qgcarver.github.io/MoonBounce-web
 ## What is this?
 MoonBounce is an inspector-based Jupyter Notebook-style IDE project.
 Most of the work I've done with this project exists in a private dev image, but
