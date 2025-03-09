@@ -30,4 +30,4 @@ initial environment. This is really only useful for extending the console.
 - fennel
 
 ## License
-[MIT](LICENSE).
+[AGPL3](LICENSE).
