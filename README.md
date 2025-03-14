@@ -6,11 +6,9 @@ https://qgcarver.github.io/MoonBounce-web (Only works with touchscreens)
 ### WebGL graphics with HTML5 Canvas
 ![graphics demo](https://github.com/user-attachments/assets/0c7f1458-cec1-4ef2-b033-dc5bb1dc4cfa)
 ### Hot Reloading
-<video src='https://github.com/user-attachments/assets/b0516355-a415-43b8-8169-9899cb9184d5' width=180/>
+<video src='https://github.com/user-attachments/assets/b0516355-a415-43b8-8169-9899cb9184d5' width=180></video>
+
 ## What is this?
-
-
-
 MoonBounce is an inspector-based Jupyter Notebook-style IDE project.
 Most of the work I've done with this project exists in a private dev image, but
 you can use the base-line image to do your own stuff. It's all done client-side,
