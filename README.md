@@ -2,8 +2,11 @@
 ## Demo
 https://qgcarver.github.io/MoonBounce-web (Only works with touchscreens)
 ![demo](https://github.com/qgcarver/MoonBounce-web/blob/main/Screenshot_20240915_050341_Chrome.jpg)
-![reloading](https://github.com/qgcarver/MoonBounce-web/blob/main/stc04y.mov)
+https://github.com/user-attachments/assets/b0516355-a415-43b8-8169-9899cb9184d5
 ## What is this?
+
+
+
 MoonBounce is an inspector-based Jupyter Notebook-style IDE project.
 Most of the work I've done with this project exists in a private dev image, but
 you can use the base-line image to do your own stuff. It's all done client-side,
