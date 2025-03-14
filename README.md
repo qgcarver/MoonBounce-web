@@ -1,7 +1,11 @@
 # MoonBounce
 ## Demo
 https://qgcarver.github.io/MoonBounce-web (Only works with touchscreens)
+### Miller Column object viewer
 ![demo](https://github.com/qgcarver/MoonBounce-web/blob/main/Screenshot_20240915_050341_Chrome.jpg)
+### WebGL graphics with HTML5 Canvas
+![graphics demo](https://github.com/user-attachments/assets/0c7f1458-cec1-4ef2-b033-dc5bb1dc4cfa)
+### Hot Reloading
 <video src='https://github.com/user-attachments/assets/b0516355-a415-43b8-8169-9899cb9184d5' width=180/>
 ## What is this?
 
